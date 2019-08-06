@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
+  <head>
+    <title>Repairs</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CLato:300,400,700,900%7CKalam:300,400,700%7COswald:300,400,500,600,700">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/style.css">
+    <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
+  </head>
+  <body>
+    <div class="preloader">
+      <div class="preloader-body">
+        <div class="cssload-bell">
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+          <div class="cssload-circle">
+            <div class="cssload-inner"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page">
+      <!-- Page Header-->
+      <header class="section page-header context-dark">
+        <!-- RD Navbar-->
+        <div class="rd-navbar-wrap">
+          <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="100px" data-xl-stick-up-offset="120px" data-xxl-stick-up-offset="140px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+            <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
+            <div class="rd-navbar-aside-outer">
+              <div class="rd-navbar-aside">
+                <div class="rd-navbar-collapse">
+                  <div class="contacts-ruth">
+                    <div class="unit unit-spacing-sm align-items-center">
+                      <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
+                      <div class="unit-body"><a href="#">523 Sylvan Ave<br/>Mountain View, CA 94041 USA</a></div>
+                    </div>
+                  </div>
+                  <div class="rd-navbar-button-2"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
+                    <h4><a class="link-gray-800" href="tel:#">800-2345-6789</a></h4>
+                  </div>
+                </div>
+                <!-- RD Navbar Panel-->
+                <div class="rd-navbar-panel">
+                  <!-- RD Navbar Toggle-->
+                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                  <!-- RD Navbar Brand-->
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-default-127x53.png" alt="" width="127" height="53" srcset="images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="images/logo-inverse-254x76.png 2x"/></a>
+                  </div>
+                </div>
+                <div class="rd-navbar-button"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
+                  <h4><a class="link-secondary" href="tel:#">800-2345-6789</a></h4>
+                </div>
+              </div>
+            </div>
+            <div class="rd-navbar-main-outer">
+              <div class="rd-navbar-main">
+                <div class="rd-navbar-nav-wrap">
+                  <!-- RD Navbar Nav-->
+                  <ul class="rd-navbar-nav">
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="about-us.html">About Us</a>
+                    </li>
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="repairs.html">Repairs</a>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="blog.html">Blog</a>
+                      <!-- RD Navbar Dropdown-->
+                      <ul class="rd-menu rd-navbar-dropdown">
+                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blog-post.html">Blog Post</a></li>
+                      </ul>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="gallery.html">Gallery</a>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Elements</a>
+                      <!-- RD Navbar Megamenu-->
+                      <ul class="rd-menu rd-navbar-megamenu">
+                        <li class="rd-megamenu-item">
+                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-apps"></span><span class="rd-megamenu-text">Elements</span></div>
+                          <ul class="rd-megamenu-list rd-megamenu-list-2">
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography.html">Typography</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="icon-lists.html">Icon lists</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progress-bars.html">Progress bars</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="calls-to-action.html">Calls to action</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabs-and-accordions.html">Tabs &amp; accordions</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons.html">Buttons</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables.html">Tables</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms.html">Forms</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters.html">Counters</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid-system.html">Grid system</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tractor-parts.html">Tractor Parts</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials.html">Testimonials</a></li>
+                          </ul>
+                        </li>
+                        <li class="rd-megamenu-item flex-grow-1 flex-shrink-0">
+                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-layers"></span><span class="rd-megamenu-text">Additional pages</span></div>
+                          <ul class="rd-megamenu-list">
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">404 Page</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="coming-soon.html">Coming Soon</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacy-policy.html">Privacy Policy</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="our-team.html">Our Team</a></li>
+                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="search-results.html">Search Results</a></li>
+                          </ul>
+                        </li>
+                        <li class="rd-megamenu-item rd-megamenu-banner">
+                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon icon linearicons-cog"></span><span class="rd-megamenu-text">Welcome to Fixit</span></div><a class="banner-classic" href="#"><img src="images/banner-1-300x202.jpg" alt="" width="300" height="202"/></a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.html">Contact Us</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="rd-navbar-main-element">
+                  <!-- RD Navbar Search-->
+                  <div class="rd-navbar-search rd-navbar-search-2">
+                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
+                    <form class="rd-search" action="search-results.html" data-search-live="rd-search-results-live" method="GET">
+                      <div class="form-wrap">
+                        <label class="form-label" for="rd-navbar-search-form-input">Search...</label>
+                        <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/>
+                        <div class="rd-search-results-live" id="rd-search-results-live"></div>
+                        <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <section class="breadcrumbs-custom">
+        <div class="parallax-container" data-parallax-img="images/bg-about.jpg">
+          <div class="breadcrumbs-custom-body parallax-content context-dark">
+            <div class="container">
+              <h2 class="breadcrumbs-custom-title">Repairs</h2>
+              <h6 class="breadcrumbs-custom-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br class="d-none d-md-block">tempor incididunt ut labore et dolore magna aliqua.</h6>
+            </div>
+          </div>
+        </div>
+        <div class="breadcrumbs-custom-footer">
+          <div class="container">
+            <ul class="breadcrumbs-custom-path">
+              <li><a href="index.html">Home</a></li>
+              <li class="active">Repairs</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <!-- Services-->
+      <section class="section section-sm section-last bg-default">
+        <div class="container">
+          <!-- Owl Carousel-->
+          <div class="owl-carousel owl-style-8" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="false">
+            <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="about-us.html"><img src="images/about-1-340x243.jpg" alt="" width="340" height="243"/></a>
+              <h4 class="box-info-modern-title"><a href="about-us.html">Diagnostics</a></h4>
+              <div class="box-info-modern-text">Our skilled technicians provide high-quality diagnostic services for tractors and other agricultural machinery.</div><a class="box-info-modern-link" href="about-us.html">Read more</a>
+            </article>
+            <article class="box-info-modern wow slideInUp"><a class="box-info-modern-figure" href="about-us.html"><img src="images/about-2-340x243.jpg" alt="" width="340" height="243"/></a>
+              <h4 class="box-info-modern-title"><a href="about-us.html">Tractor maintenance</a></h4>
+              <div class="box-info-modern-text">Our company also provides reliable tractor maintenance services that are guaranteed to prevent any functional issues.</div><a class="box-info-modern-link" href="about-us.html">Read more</a>
+            </article>
+            <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="about-us.html"><img src="images/about-3-340x243.jpg" alt="" width="340" height="243"/></a>
+              <h4 class="box-info-modern-title"><a href="about-us.html">Machinery Repair</a></h4>
+              <div class="box-info-modern-text">FixIt offers all levels of agricultural machinery repair services with a wide variety of supported equipment.</div><a class="box-info-modern-link" href="about-us.html">Read more</a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- Subscribe to Our Newsletter-->
+      <section class="section parallax-container" data-parallax-img="images/parallax-1.jpg">
+        <div class="parallax-content section-xxl context-dark text-md-left">
+          <div class="container">
+            <div class="row row-30 justify-content-center align-items-center align-items-md-end">
+              <div class="col-lg-3">
+                <h3 class="wow fadeInLeft">Schedule<br class="d-none d-lg-block"> a repair</h3>
+                <p class="opacity-60 wow fadeInLeft" data-wow-delay=".1s">Send your repair request</p>
+              </div>
+              <div class="col-lg-8 col-xl-8 inset-lg-bottom-10">
+                <form class="rd-form rd-form-2 rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                  <div class="row row-20 row-md-30">
+                    <div class="col-sm-5">
+                      <div class="form-wrap">
+                        <input class="form-input" id="contact-first-name-4" type="text" name="name" data-constraints="@Required">
+                        <label class="form-label" for="contact-first-name-4">Name</label>
+                      </div>
+                    </div>
+                    <div class="col-sm-5">
+                      <div class="form-wrap">
+                        <input class="form-input" id="contact-last-name-4" type="text" name="phone" data-constraints="@Numeric">
+                        <label class="form-label" for="contact-last-name-4">Phone</label>
+                      </div>
+                    </div>
+                    <div class="col-sm-2">
+                      <div class="form-wrap text-center">
+                        <button class="button button-lg button-secondary button-zakaria" type="submit">submit</button>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Accordions-->
+      <section class="section section-sm section-last bg-default">
+        <div class="container">
+          <!-- Bootstrap collapse-->
+          <div class="card-group-custom card-group-corporate" id="accordion1" role="tablist" aria-multiselectable="false">
+            <div class="row">
+              <div class="col-lg-6">
+                <!-- Bootstrap card-->
+                <article class="card card-custom card-corporate">
+                  <div class="card-header" role="tab">
+                    <div class="card-title"><a id="accordion1-card-head-owxobnkq" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-bocdqsxc" aria-controls="accordion1-card-body-bocdqsxc" aria-expanded="true" role="button">In what formats are your templates available?
+                        <div class="card-arrow">
+                          <div class="icon"></div>
+                        </div></a></div>
+                  </div>
+                  <div class="collapse show" id="accordion1-card-body-bocdqsxc" aria-labelledby="accordion1-card-head-owxobnkq" data-parent="#accordion1" role="tabpanel">
+                    <div class="card-body">
+                      <p>Website templates are available in Photoshop and HTML formats. Fonts are included with Photoshop file. In most templates HTML is compatible with Adobe® Dreamweaver® and Microsoft Frontpage®.</p>
+                    </div>
+                  </div>
+                </article>
+                <!-- Bootstrap card-->
+                <article class="card card-custom card-corporate">
+                  <div class="card-header" role="tab">
+                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-qgoajgyc" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-euphkouk" aria-controls="accordion1-card-body-euphkouk" aria-expanded="false" role="button">Do you provide any scripts with your templates?
+                        <div class="card-arrow">
+                          <div class="icon"></div>
+                        </div></a></div>
+                  </div>
+                  <div class="collapse" id="accordion1-card-body-euphkouk" aria-labelledby="accordion1-card-head-qgoajgyc" data-parent="#accordion1" role="tabpanel">
+                    <div class="card-body">
+                      <p>Our templates do not include any additional scripts. Newsletter subscriptions, search fields, forums, image galleries (in HTML versions of Flash products) are inactive. Basic scripts can be easily added at www.zemez.io If you are not sure that the element you’re interested in is active please contact our Support Chat for clarification.</p>
+                    </div>
+                  </div>
+                </article>
+                <!-- Bootstrap card-->
+                <article class="card card-custom card-corporate card-corporate-2">
+                  <div class="card-header" role="tab">
+                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-mgaxnbkp" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-tgitngol" aria-controls="accordion1-card-body-tgitngol" aria-expanded="false" role="button">What do I receive when I order a template?
+                        <div class="card-arrow">
+                          <div class="icon"></div>
+                        </div></a></div>
+                  </div>
+                  <div class="collapse" id="accordion1-card-body-tgitngol" aria-labelledby="accordion1-card-head-mgaxnbkp" data-parent="#accordion1" role="tabpanel">
+                    <div class="card-body">
+                      <p>After you complete the payment via our secure form you will receive the instructions for downloading the product. The source files in the download package can vary based on the type of the product you have purchased.</p>
+                    </div>
+                  </div>
+                </article>
+              </div>
+              <div class="col-lg-6">
+                <!-- Bootstrap card-->
+                <article class="card card-custom card-corporate">
+                  <div class="card-header" role="tab">
+                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-mccsntnj" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-jsumtsfc" aria-controls="accordion1-card-body-jsumtsfc" aria-expanded="false" role="button">What am I allowed to do with the templates?
+                        <div class="card-arrow">
+                          <div class="icon"></div>
+                        </div></a></div>
+                  </div>
+                  <div class="collapse" id="accordion1-card-body-jsumtsfc" aria-labelledby="accordion1-card-head-mccsntnj" data-parent="#accordion1" role="tabpanel">
+                    <div class="card-body">
+                      <p>You may build a website using the template in any way you like. You may not resell or redistribute templates (like we do); claim intellectual or exclusive ownership to any of our products, modified or unmodified. All products are property of content providing companies and individuals. You are also not allowed to make more than one project using the same template (you have to purchase the same template once more in order to make another project with the same design).</p>
+                    </div>
+                  </div>
+                </article>
+                <!-- Bootstrap card-->
+                <article class="card card-custom card-corporate">
+                  <div class="card-header" role="tab">
+                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-hwyabgnf" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-acdvtxey" aria-controls="accordion1-card-body-acdvtxey" aria-expanded="false" role="button">What is a unique/non-unique purchase?
+                        <div class="card-arrow">
+                          <div class="icon"></div>
+                        </div></a></div>
+                  </div>
+                  <div class="collapse" id="accordion1-card-body-acdvtxey" aria-labelledby="accordion1-card-head-hwyabgnf" data-parent="#accordion1" role="tabpanel">
+                    <div class="card-body">
+                      <p>Non-exclusive purchase means that other people can buy the template you have chosen some time later. Exclusive or unique purchase guarantees that you are the last person to buy this template. After an exclusive purchase occurs the template is being permanently removed from the sales directory and will never be available to other customers again. Only you and people who bought the template before you will own it.</p>
+                    </div>
+                  </div>
+                </article>
+                <!-- Bootstrap card-->
+                <article class="card card-custom card-corporate">
+                  <div class="card-header" role="tab">
+                    <div class="card-title"><a class="collapsed" id="accordion1-card-head-svtfkhve" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-card-body-wibtkblj" aria-controls="accordion1-card-body-wibtkblj" aria-expanded="false" role="button">How can I pay for my order?
+                        <div class="card-arrow">
+                          <div class="icon"></div>
+                        </div></a></div>
+                  </div>
+                  <div class="collapse" id="accordion1-card-body-wibtkblj" aria-labelledby="accordion1-card-head-svtfkhve" data-parent="#accordion1" role="tabpanel">
+                    <div class="card-body">
+                      <p>We accept Visa, MasterCard, and American Express credit and debit cards for your convenience.</p>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Page Footer-->
+      <footer class="section footer-modern bg-image-1 context-dark footer-modern-2">
+        <div class="footer-modern-body section-xl context-dark">
+          <div class="container">
+            <div class="row row-40 row-md-50 justify-content-xl-between">
+              <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight">
+                <div class="inset-xl-right-70">
+                  <h5 class="footer-modern-title">Gallery</h5>
+                  <div class="row row-10 gutters-10" data-lightgallery="group">
+                    <div class="col-4 col-sm-2 col-lg-4">
+                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-1-178x178.jpg" alt="" width="178" height="178"/></a>
+                    </div>
+                    <div class="col-4 col-sm-2 col-lg-4">
+                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-2-178x178.jpg" alt="" width="178" height="178"/></a>
+                    </div>
+                    <div class="col-4 col-sm-2 col-lg-4">
+                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-3-178x178.jpg" alt="" width="178" height="178"/></a>
+                    </div>
+                    <div class="col-4 col-sm-2 col-lg-4">
+                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-4-178x178.jpg" alt="" width="178" height="178"/></a>
+                    </div>
+                    <div class="col-4 col-sm-2 col-lg-4">
+                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-5-178x178.jpg" alt="" width="178" height="178"/></a>
+                    </div>
+                    <div class="col-4 col-sm-2 col-lg-4">
+                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-6-178x178.jpg" alt="" width="178" height="178"/></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
+                <h5 class="footer-modern-title">Quick Links</h5>
+                <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
+                  <li><a href="about-us.html">About Us</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="our-team.html">Our Team</a></li>
+                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#">FAQ</a></li>
+                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="#">Our Blog</a></li>
+                  <li><a href="#">Tractor Parts</a></li>
+                  <li><a href="#">Repairs</a></li>
+                  <li><a href="#">Our Vision</a></li>
+                  <li><a href="#">Our Mission</a></li>
+                </ul>
+              </div>
+              <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
+                <h5 class="footer-modern-title">Get in touch</h5>
+                <ul class="contacts-creative">
+                  <li>
+                    <div class="unit unit-spacing-sm flex-column flex-md-row">
+                      <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
+                      <div class="unit-body"><a href="#">523 Sylvan Ave, 5th Floor<br/>Mountain View, CA 94041 USA</a></div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="unit unit-spacing-sm flex-column flex-md-row">
+                      <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
+                      <div class="unit-body"><a href="tel:#">(+844) 123 456 78</a></div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="unit unit-spacing-sm flex-column flex-md-row">
+                      <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
+                      <div class="unit-body"><a href="mailto:#">info@demolink.org</a></div>
+                    </div>
+                  </li>
+                </ul>
+                <ul class="list-inline list-social-3 list-inline-sm">
+                  <li><a class="icon mdi mdi-facebook icon-xxs" href="#"></a></li>
+                  <li><a class="icon mdi mdi-twitter icon-xxs" href="#"></a></li>
+                  <li><a class="icon mdi mdi-instagram icon-xxs" href="#"></a></li>
+                  <li><a class="icon mdi mdi-google-plus icon-xxs" href="#"></a></li>
+                  <li><a class="icon mdi mdi-skype icon-xxs" href="#"></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-modern-panel text-center">
+          <div class="container">
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Fixit</span><span>.&nbsp; All rights reserved.</span><span>&nbsp;</span><a href="privacy-policy.html">Privacy Policy</a>. Design&nbsp;by&nbsp;<a href="https://zemez.io/">Zemez</a></p>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <div class="snackbars" id="form-output-global"></div>
+    <script src="js/core.min.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
