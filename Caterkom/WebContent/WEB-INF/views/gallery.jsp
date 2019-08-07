@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
-    <title>Gallery</title>
+    <title>Caterkom</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../resources/static/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CLato:300,400,700,900%7CKalam:300,400,700%7COswald:300,400,500,600,700">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/fonts.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../resources/static/css/bootstrap.css">
+    <link rel="stylesheet" href="../resources/static/css/fonts.css">
+    <link rel="stylesheet" href="../resources/static/css/style.css">
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
   <body>
@@ -59,7 +59,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-default-127x53.png" alt="" width="127" height="53" srcset="images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="images/logo-inverse-254x76.png 2x"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo-default-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-inverse-254x76.png 2x"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-button"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
@@ -72,91 +72,91 @@
                 <div class="rd-navbar-nav-wrap">
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Home</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="inicio" style="color:black;">Inicio</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about-us.html">About Us</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="aboutus" style="color:black;">Nosotros</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="repairs.html">Repairs</a>
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="repairs">Repairs</a> -->
+<!--                     </li> -->
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="blog">Blog</a> -->
+<!--                       RD Navbar Dropdown -->
+<!--                       <ul class="rd-menu rd-navbar-dropdown"> -->
+<!--                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blogpost">Blog Post</a></li> -->
+<!--                       </ul> -->
+<!--                     </li> -->
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="gallery">Productos</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="blog.html">Blog</a>
-                      <!-- RD Navbar Dropdown-->
-                      <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blog-post.html">Blog Post</a></li>
-                      </ul>
-                    </li>
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="gallery.html">Gallery</a>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Elements</a>
-                      <!-- RD Navbar Megamenu-->
-                      <ul class="rd-menu rd-navbar-megamenu">
-                        <li class="rd-megamenu-item">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-apps"></span><span class="rd-megamenu-text">Elements</span></div>
-                          <ul class="rd-megamenu-list rd-megamenu-list-2">
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography.html">Typography</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="icon-lists.html">Icon lists</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progress-bars.html">Progress bars</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="calls-to-action.html">Calls to action</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabs-and-accordions.html">Tabs &amp; accordions</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons.html">Buttons</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables.html">Tables</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms.html">Forms</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters.html">Counters</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid-system.html">Grid system</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tractor-parts.html">Tractor Parts</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials.html">Testimonials</a></li>
-                          </ul>
-                        </li>
-                        <li class="rd-megamenu-item flex-grow-1 flex-shrink-0">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-layers"></span><span class="rd-megamenu-text">Additional pages</span></div>
-                          <ul class="rd-megamenu-list">
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">404 Page</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="coming-soon.html">Coming Soon</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacy-policy.html">Privacy Policy</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="our-team.html">Our Team</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="search-results.html">Search Results</a></li>
-                          </ul>
-                        </li>
-                        <li class="rd-megamenu-item rd-megamenu-banner">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon icon linearicons-cog"></span><span class="rd-megamenu-text">Welcome to Fixit</span></div><a class="banner-classic" href="#"><img src="images/banner-1-300x202.jpg" alt="" width="300" height="202"/></a>
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.html">Contact Us</a>
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="#">Elements</a> -->
+<!--                       RD Navbar Megamenu -->
+<!--                       <ul class="rd-menu rd-navbar-megamenu"> -->
+<!--                         <li class="rd-megamenu-item"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-apps"></span><span class="rd-megamenu-text">Elements</span></div> -->
+<!--                           <ul class="rd-megamenu-list rd-megamenu-list-2"> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography">Typography</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="iconlists">Icon lists</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progressbars">Progress bars</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="callstoaction">Calls to action</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabsandaccordions">Tabs &amp; accordions</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons">Buttons</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables">Tables</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms">Forms</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters">Counters</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="gridsystem">Grid system</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tractorparts">Tractor Parts</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials">Testimonials</a></li> -->
+<!--                           </ul> -->
+<!--                         </li> -->
+<!--                         <li class="rd-megamenu-item flex-grow-1 flex-shrink-0"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-layers"></span><span class="rd-megamenu-text">Additional pages</span></div> -->
+<!--                           <ul class="rd-megamenu-list"> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404page">404 Page</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="comingsoon">Coming Soon</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacypolicy">Privacy Policy</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="ourteam">Our Team</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="searchresults">Search Results</a></li> -->
+<!--                           </ul> -->
+<!--                         </li> -->
+<!--                         <li class="rd-megamenu-item rd-megamenu-banner"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon icon linearicons-cog"></span><span class="rd-megamenu-text">Welcome to Fixit</span></div><a class="banner-classic" href="#"><img src="../resources/static/images/banner-1-300x202.jpg" alt="" width="300" height="202"/></a> -->
+<!--                         </li> -->
+<!--                       </ul> -->
+<!--                     </li> -->
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="contactus" style="color:black;">Contáctanos</a>
                     </li>
                   </ul>
                 </div>
-                <div class="rd-navbar-main-element">
+<!--                 <div class="rd-navbar-main-element"> -->
                   <!-- RD Navbar Search-->
-                  <div class="rd-navbar-search rd-navbar-search-2">
-                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
-                    <form class="rd-search" action="search-results.html" data-search-live="rd-search-results-live" method="GET">
-                      <div class="form-wrap">
-                        <label class="form-label" for="rd-navbar-search-form-input">Search...</label>
-                        <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/>
-                        <div class="rd-search-results-live" id="rd-search-results-live"></div>
-                        <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button>
-                      </div>
-                    </form>
-                  </div>
-                </div>
+<!--                   <div class="rd-navbar-search rd-navbar-search-2"> -->
+<!--                     <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button> -->
+<!--                     <form class="rd-search" action="search-results" data-search-live="rd-search-results-live" method="GET"> -->
+<!--                       <div class="form-wrap"> -->
+<!--                         <label class="form-label" for="rd-navbar-search-form-input">Buscar...</label> -->
+<!--                         <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/> -->
+<!--                         <div class="rd-search-results-live" id="rd-search-results-live"></div> -->
+<!--                         <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button> -->
+<!--                       </div> -->
+<!--                     </form> -->
+<!--                   </div> -->
+<!--                 </div> -->
               </div>
             </div>
           </nav>
         </div>
       </header>
       <section class="breadcrumbs-custom">
-        <div class="parallax-container" data-parallax-img="images/bg-about.jpg">
+        <div class="parallax-container" data-parallax-img="../resources/static/images/bg-about.jpg">
           <div class="breadcrumbs-custom-body parallax-content context-dark">
             <div class="container">
-              <h2 class="breadcrumbs-custom-title">Gallery</h2>
+              <h2 class="breadcrumbs-custom-title">Productos</h2>
             </div>
           </div>
         </div>
         <div class="breadcrumbs-custom-footer">
           <div class="container">
             <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
-              <li class="active">Gallery</li>
+              <li><a href="inicio">Inicio</a></li>
+              <li class="active">Productos</li>
             </ul>
           </div>
         </div>
@@ -178,15 +178,15 @@
             <div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
               <!-- Thumbnail Classic-->
               <article class="thumbnail-classic">
-                <div class="thumbnail-classic-figure"><img src="images/grid-gallery-1-370x315.jpg" alt="" width="370" height="315"/>
+                <div class="thumbnail-classic-figure"><img src="../resources/static/images/grid-gallery-1-370x315.jpg" alt="" width="370" height="315"/>
                 </div>
                 <div class="thumbnail-classic-caption">
                   <div>
                     <h5 class="thumbnail-classic-title"><a href="#">Air conditioning repair</a></h5>
                     <div class="thumbnail-classic-price">$13.99</div>
                     <div class="thumbnail-classic-button-wrap">
-                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="images/grid-gallery-7-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-1-370x315.jpg" alt="" width="370" height="315"/></a></div>
-                      <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div>
+                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="../resources/static/images/grid-gallery-7-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-1-370x315.jpg" alt="" width="370" height="315"/></a></div>
+<!--                       <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div> -->
                     </div>
                   </div>
                 </div>
@@ -195,15 +195,15 @@
             <div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 2">
               <!-- Thumbnail Classic-->
               <article class="thumbnail-classic">
-                <div class="thumbnail-classic-figure"><img src="images/grid-gallery-2-370x315.jpg" alt="" width="370" height="315"/>
+                <div class="thumbnail-classic-figure"><img src="../resources/static/images/grid-gallery-2-370x315.jpg" alt="" width="370" height="315"/>
                 </div>
                 <div class="thumbnail-classic-caption">
                   <div>
                     <h5 class="thumbnail-classic-title"><a href="#">Tractor diagnostics</a></h5>
                     <div class="thumbnail-classic-price">$11.99</div>
                     <div class="thumbnail-classic-button-wrap">
-                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="images/grid-gallery-8-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-2-370x315.jpg" alt="" width="370" height="315"/></a></div>
-                      <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div>
+                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="../resources/static/images/grid-gallery-8-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-2-370x315.jpg" alt="" width="370" height="315"/></a></div>
+<!--                       <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div> -->
                     </div>
                   </div>
                 </div>
@@ -212,15 +212,15 @@
             <div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 2">
               <!-- Thumbnail Classic-->
               <article class="thumbnail-classic">
-                <div class="thumbnail-classic-figure"><img src="images/grid-gallery-3-370x315.jpg" alt="" width="370" height="315"/>
+                <div class="thumbnail-classic-figure"><img src="../resources/static/images/grid-gallery-3-370x315.jpg" alt="" width="370" height="315"/>
                 </div>
                 <div class="thumbnail-classic-caption">
                   <div>
                     <h5 class="thumbnail-classic-title"><a href="#">Tractor Maintenance</a></h5>
                     <div class="thumbnail-classic-price">$10.99</div>
                     <div class="thumbnail-classic-button-wrap">
-                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="images/grid-gallery-9-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-3-370x315.jpg" alt="" width="370" height="315"/></a></div>
-                      <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div>
+                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="../resources/static/images/grid-gallery-9-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-3-370x315.jpg" alt="" width="370" height="315"/></a></div>
+<!--                       <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div> -->
                     </div>
                   </div>
                 </div>
@@ -229,15 +229,15 @@
             <div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
               <!-- Thumbnail Classic-->
               <article class="thumbnail-classic">
-                <div class="thumbnail-classic-figure"><img src="images/grid-gallery-4-370x315.jpg" alt="" width="370" height="315"/>
+                <div class="thumbnail-classic-figure"><img src="../resources/static/images/grid-gallery-4-370x315.jpg" alt="" width="370" height="315"/>
                 </div>
                 <div class="thumbnail-classic-caption">
                   <div>
                     <h5 class="thumbnail-classic-title"><a href="#">Transmission Repair</a></h5>
                     <div class="thumbnail-classic-price">$12.99</div>
                     <div class="thumbnail-classic-button-wrap">
-                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-4-370x315.jpg" alt="" width="370" height="315"/></a></div>
-                      <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div>
+                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="../resources/static/images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-4-370x315.jpg" alt="" width="370" height="315"/></a></div>
+<!--                       <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div> -->
                     </div>
                   </div>
                 </div>
@@ -246,15 +246,15 @@
             <div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 1">
               <!-- Thumbnail Classic-->
               <article class="thumbnail-classic">
-                <div class="thumbnail-classic-figure"><img src="images/grid-gallery-5-370x315.jpg" alt="" width="370" height="315"/>
+                <div class="thumbnail-classic-figure"><img src="../resources/static/images/grid-gallery-5-370x315.jpg" alt="" width="370" height="315"/>
                 </div>
                 <div class="thumbnail-classic-caption">
                   <div>
                     <h5 class="thumbnail-classic-title"><a href="#">Hydraulic system Repair</a></h5>
                     <div class="thumbnail-classic-price">$14.99</div>
                     <div class="thumbnail-classic-button-wrap">
-                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="images/grid-gallery-10-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-5-370x315.jpg" alt="" width="370" height="315"/></a></div>
-                      <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div>
+                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="../resources/static/images/grid-gallery-10-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-5-370x315.jpg" alt="" width="370" height="315"/></a></div>
+<!--                       <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div> -->
                     </div>
                   </div>
                 </div>
@@ -263,15 +263,15 @@
             <div class="col-sm-6 col-lg-4 isotope-item" data-filter="Type 2">
               <!-- Thumbnail Classic-->
               <article class="thumbnail-classic">
-                <div class="thumbnail-classic-figure"><img src="images/grid-gallery-6-370x315.jpg" alt="" width="370" height="315"/>
+                <div class="thumbnail-classic-figure"><img src="../resources/static/images/grid-gallery-6-370x315.jpg" alt="" width="370" height="315"/>
                 </div>
                 <div class="thumbnail-classic-caption">
                   <div>
                     <h5 class="thumbnail-classic-title"><a href="#">Oil Change</a></h5>
                     <div class="thumbnail-classic-price">$17.99</div>
                     <div class="thumbnail-classic-button-wrap">
-                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-6-370x315.jpg" alt="" width="370" height="315"/></a></div>
-                      <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div>
+                      <div class="thumbnail-classic-button"><a class="button button-gray-6 button-zakaria fl-bigmug-line-search74" href="../resources/static/images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-6-370x315.jpg" alt="" width="370" height="315"/></a></div>
+<!--                       <div class="thumbnail-classic-button"><a class="button button-primary button-zakaria fl-bigmug-line-shopping202" href="#"></a></div> -->
                     </div>
                   </div>
                 </div>
@@ -286,37 +286,37 @@
         <div class="footer-modern-body section-xl context-dark">
           <div class="container">
             <div class="row row-40 row-md-50 justify-content-xl-between">
-              <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight">
-                <div class="inset-xl-right-70">
-                  <h5 class="footer-modern-title">Gallery</h5>
-                  <div class="row row-10 gutters-10" data-lightgallery="group">
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-1-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-2-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-3-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-4-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-5-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="images/grid-gallery-6-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+<!--               <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight"> -->
+<!--                 <div class="inset-xl-right-70"> -->
+<!--                   <h5 class="footer-modern-title">Gallery</h5> -->
+<!--                   <div class="row row-10 gutters-10" data-lightgallery="group"> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-1-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-2-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-3-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-4-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-5-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-6-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--               </div> -->
               <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
-                <h5 class="footer-modern-title">Quick Links</h5>
+                <h5 class="footer-modern-title">Links</h5>
                 <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
-                  <li><a href="about-us.html">About Us</a></li>
+                  <li><a href="aboutus">About Us</a></li>
                   <li><a href="#">Services</a></li>
-                  <li><a href="our-team.html">Our Team</a></li>
+                  <li><a href="ourteam">Our Team</a></li>
                   <li><a href="#">Testimonials</a></li>
                   <li><a href="#">FAQ</a></li>
                   <li><a href="#">Contact Us</a></li>
@@ -328,7 +328,7 @@
                 </ul>
               </div>
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
-                <h5 class="footer-modern-title">Get in touch</h5>
+                <h5 class="footer-modern-title">Contactar</h5>
                 <ul class="contacts-creative">
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
@@ -362,13 +362,13 @@
         </div>
         <div class="footer-modern-panel text-center">
           <div class="container">
-            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Fixit</span><span>.&nbsp; All rights reserved.</span><span>&nbsp;</span><a href="privacy-policy.html">Privacy Policy</a>. Design&nbsp;by&nbsp;<a href="https://zemez.io/">Zemez</a></p>
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Caterkom</span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><a href="privacypolicy">Políticas de Privacidad</a>. Design&nbsp;by&nbsp;<a href="http://www.mngr.cl/">MNGR</a></p>
           </div>
         </div>
       </footer>
     </div>
     <div class="snackbars" id="form-output-global"></div>
-    <script src="js/core.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="../resources/static/js/core.min.js"></script>
+    <script src="../resources/static/js/script.js"></script>
   </body>
 </html>

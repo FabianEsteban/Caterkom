@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
-    <title>Home</title>
+    <title>Caterkom</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -72,73 +72,73 @@
                 <div class="rd-navbar-nav-wrap">
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="inicio">Home</a>
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="inicio">Inicio</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="aboutus">About Us</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="aboutus" style="color:black;">Nosotros</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="repairs">Repairs</a>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="blog">Blog</a>
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="repairs">Repairs</a> -->
+<!--                     </li> -->
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="blog">Blog</a> -->
                       <!-- RD Navbar Dropdown-->
-                      <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blogpost">Blog Post</a></li>
-                      </ul>
+<!--                       <ul class="rd-menu rd-navbar-dropdown"> -->
+<!--                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blogpost">Blog Post</a></li> -->
+<!--                       </ul> -->
+<!--                     </li> -->
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="gallery" style="color:black;">Productos</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="gallery">Gallery</a>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Elements</a>
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="#">Elements</a> -->
                       <!-- RD Navbar Megamenu-->
-                      <ul class="rd-menu rd-navbar-megamenu">
-                        <li class="rd-megamenu-item">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-apps"></span><span class="rd-megamenu-text">Elements</span></div>
-                          <ul class="rd-megamenu-list rd-megamenu-list-2">
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography">Typography</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="iconlists">Icon lists</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progressbars">Progress bars</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="callstoaction">Calls to action</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabsandaccordions">Tabs &amp; accordions</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons">Buttons</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables">Tables</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms">Forms</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters">Counters</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="gridsystem">Grid system</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tractorparts">Tractor Parts</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials">Testimonials</a></li>
-                          </ul>
-                        </li>
-                        <li class="rd-megamenu-item flex-grow-1 flex-shrink-0">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-layers"></span><span class="rd-megamenu-text">Additional pages</span></div>
-                          <ul class="rd-megamenu-list">
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404page">404 Page</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="comingsoon">Coming Soon</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacypolicy">Privacy Policy</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="ourteam">Our Team</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="searchresults">Search Results</a></li>
-                          </ul>
-                        </li>
-                        <li class="rd-megamenu-item rd-megamenu-banner">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon icon linearicons-cog"></span><span class="rd-megamenu-text">Welcome to Fixit</span></div><a class="banner-classic" href="#"><img src="../resources/static/images/banner-1-300x202.jpg" alt="" width="300" height="202"/></a>
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="contactus">Contact Us</a>
+<!--                       <ul class="rd-menu rd-navbar-megamenu"> -->
+<!--                         <li class="rd-megamenu-item"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-apps"></span><span class="rd-megamenu-text">Elements</span></div> -->
+<!--                           <ul class="rd-megamenu-list rd-megamenu-list-2"> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography">Typography</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="iconlists">Icon lists</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progressbars">Progress bars</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="callstoaction">Calls to action</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabsandaccordions">Tabs &amp; accordions</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons">Buttons</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables">Tables</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms">Forms</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters">Counters</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="gridsystem">Grid system</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tractorparts">Tractor Parts</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials">Testimonials</a></li> -->
+<!--                           </ul> -->
+<!--                         </li> -->
+<!--                         <li class="rd-megamenu-item flex-grow-1 flex-shrink-0"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-layers"></span><span class="rd-megamenu-text">Additional pages</span></div> -->
+<!--                           <ul class="rd-megamenu-list"> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404page">404 Page</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="comingsoon">Coming Soon</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacypolicy">Privacy Policy</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="ourteam">Our Team</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="searchresults">Search Results</a></li> -->
+<!--                           </ul> -->
+<!--                         </li> -->
+<!--                         <li class="rd-megamenu-item rd-megamenu-banner"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon icon linearicons-cog"></span><span class="rd-megamenu-text">Welcome to Fixit</span></div><a class="banner-classic" href="#"><img src="../resources/static/images/banner-1-300x202.jpg" alt="" width="300" height="202"/></a> -->
+<!--                         </li> -->
+<!--                       </ul> -->
+<!--                     </li> -->
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="contactus" style="color:black;">Contáctanos</a>
                     </li>
                   </ul>
                 </div>
-                <div class="rd-navbar-main-element">
+<!--                 <div class="rd-navbar-main-element"> -->
                   <!-- RD Navbar Search-->
-                  <div class="rd-navbar-search rd-navbar-search-2">
-                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
-                    <form class="rd-search" action="searchresults" data-search-live="rd-search-results-live" method="GET">
-                      <div class="form-wrap">
-                        <label class="form-label" for="rd-navbar-search-form-input">Search...</label>
-                        <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/>
-                        <div class="rd-search-results-live" id="rd-search-results-live"></div>
-                        <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button>
-                      </div>
-                    </form>
-                  </div>
-                </div>
+<!--                   <div class="rd-navbar-search rd-navbar-search-2"> -->
+<!--                     <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button> -->
+<!--                     <form class="rd-search" action="searchresults" data-search-live="rd-search-results-live" method="GET"> -->
+<!--                       <div class="form-wrap"> -->
+<!--                         <label class="form-label" for="rd-navbar-search-form-input">Buscar...</label> -->
+<!--                         <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/> -->
+<!--                         <div class="rd-search-results-live" id="rd-search-results-live"></div> -->
+<!--                         <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button> -->
+<!--                       </div> -->
+<!--                     </form> -->
+<!--                   </div> -->
+<!--                 </div> -->
               </div>
             </div>
           </nav>
@@ -177,7 +177,7 @@
       <section class="section section-sm section-top-0 bg-default offset-negative-1">
         <div class="container">
           <article class="promo-classic">
-            <h2 class="promo-classic-title">Who We Are</h2>
+            <h2 class="promo-classic-title">Quiénes somos</h2>
             <p class="big promo-classic-text">For more than 20 years, FixItâ€™s team has been servicing new and used tractors and other agricultural machinery, while also offering a wide variety of replacement parts for them.</p><a class="button button-sm button-icon-3 button-secondary button-zakaria button-zakaria-2 fa-rotate-90" href="https://youtu.be/FpZRIhy-ask" data-lightgallery="item"><span class="promo-classic-icon mdi mdi-triangle"></span></a>
           </article>
         </div>
@@ -186,7 +186,7 @@
       <!-- Services-->
       <section class="section section-sm section-last bg-default">
         <div class="container">
-          <h2 class="wow fadeScale">Services</h2>
+          <h2 class="wow fadeScale">Servicios</h2>
           <!-- Owl Carousel-->
           <div class="owl-carousel owl-style-8" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="false">
             <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="aboutus"><img src="../resources/static/images/about-1-340x243.jpg" alt="" width="340" height="243"/></a>
@@ -208,7 +208,7 @@
       <!-- Why choose us-->
       <section class="section section-xxl section-xxl-2 context-dark bg-image-8">
         <div class="container">
-          <h2 class="wow fadeScale">Why choose us</h2>
+          <h2 class="wow fadeScale">Por qué escogernos</h2>
           <div class="row row-xl row-xxl-2 row-30 row-md-40 row-lg-50 align-items-center">
             <div class="col-md-5 col-xl-4">
               <div class="row row-30 row-md-40 row-lg-50 bordered-2">
@@ -282,7 +282,7 @@
       <!-- About FixIt-->
       <section class="section section-xxl bg-default">
         <div class="container">
-          <h2 class="wow fadeScale">About FixIt</h2>
+          <h2 class="wow fadeScale">Acerca de Caterkom</h2>
           <div class="row row-30 row-lg justify-content-center">
             <div class="col-sm-8 col-md-7 col-lg-6 wow fadeInLeft"><img src="../resources/static/images/about-4-570x511.jpg" alt="" width="570" height="511"/>
             </div>
@@ -327,7 +327,7 @@
       <!-- Out Team-->
       <section class="section section-xxl context-dark bg-image-1">
         <div class="container">
-          <h2 class="wow fadeScale">Our team</h2>
+          <h2 class="wow fadeScale">Nuestro equipo</h2>
           <!-- Owl Carousel-->
           <div class="owl-carousel owl-style-10" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="false">
             <article class="team-creative wow slideInUp" data-wow-delay=".1s">
@@ -390,7 +390,7 @@
       <!-- Testimonials-->
       <section class="section section-xxl bg-default">
         <div class="container">
-          <h2 class="wow fadeScale">Testimonials</h2>
+          <h2 class="wow fadeScale">Testimonios</h2>
           <!-- Owl Carousel-->
           <div class="owl-carousel owl-style-11" data-items="1" data-sm-items="2" data-margin="30" data-dots="true" data-autoplay="false">
             <!-- Quote Carly-->
@@ -508,7 +508,7 @@
       <!-- Latest News-->
       <section class="section section-xxl bg-gray-1">
         <div class="container">
-          <h2 class="wow fadeScale">Latest News</h2>
+          <h2 class="wow fadeScale">Últimas noticias</h2>
           <div class="row row-lg row-30 justify-content-center">
             <div class="col-sm-8 col-md-6 wow fadeInLeft">
               <!-- Post Nikki 2-->
@@ -573,33 +573,33 @@
         <div class="footer-modern-body section-xl context-dark">
           <div class="container">
             <div class="row row-40 row-md-50 justify-content-xl-between">
-              <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight">
-                <div class="inset-xl-right-70">
-                  <h5 class="footer-modern-title">Gallery</h5>
-                  <div class="row row-10 gutters-10" data-lightgallery="group">
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-1-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-2-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-3-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-4-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-5-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-6-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+<!--               <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight"> -->
+<!--                 <div class="inset-xl-right-70"> -->
+<!--                   <h5 class="footer-modern-title">Gallery</h5> -->
+<!--                   <div class="row row-10 gutters-10" data-lightgallery="group"> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-1-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-2-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-3-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-4-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-5-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-6-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--               </div> -->
               <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
-                <h5 class="footer-modern-title">Quick Links</h5>
+                <h5 class="footer-modern-title">Links</h5>
                 <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
                   <li><a href="aboutus">About Us</a></li>
                   <li><a href="#">Services</a></li>
@@ -615,7 +615,7 @@
                 </ul>
               </div>
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
-                <h5 class="footer-modern-title">Get in touch</h5>
+                <h5 class="footer-modern-title">Contactar</h5>
                 <ul class="contacts-creative">
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
@@ -649,7 +649,7 @@
         </div>
         <div class="footer-modern-panel text-center">
           <div class="container">
-            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Fixit</span><span>.&nbsp; All rights reserved.</span><span>&nbsp;</span><a href="privacypolicy">Privacy Policy</a>. Design&nbsp;by&nbsp;<a href="https://zemez.io/">Zemez</a></p>
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Caterkom</span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><a href="privacypolicy">Políticas de Privacidad</a>. Diseñado&nbsp;por&nbsp;<a href="http://www.mngr.cl/">MNGR</a></p>
           </div>
         </div>
       </footer>
