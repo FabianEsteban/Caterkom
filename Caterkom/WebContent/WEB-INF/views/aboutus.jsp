@@ -47,11 +47,11 @@
                   <div class="contacts-ruth">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422<br/>Santiago, Chile</a></div>
                     </div>
                   </div>
                   <div class="rd-navbar-button-2"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                    <h4><a class="link-gray-800" href="tel:#">800-2345-6789</a></h4>
+                    <h4><a class="link-gray-800" href="tel:#">+56-956 59 3169</a></h4>
                   </div>
                 </div>
                 <!-- RD Navbar Panel-->
@@ -59,11 +59,11 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo-default-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-inverse-254x76.png 2x"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-button"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                  <h4><a class="link-secondary" href="tel:#">800-2345-6789</a></h4>
+                  <h4><a class="link-secondary" href="tel:#">+56-956 59 3169</a></h4>
                 </div>
               </div>
             </div>
@@ -232,15 +232,16 @@
       <!-- Out Team-->
       <section class="section section-xxl context-dark bg-image-1">
         <div class="container">
-          <h2 class="wow fadeScale">Nuestro equipo</h2>
+          <h2 class="wow fadeScale">Vendedores</h2>
           <!-- Owl Carousel-->
-          <div class="owl-carousel owl-style-10" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="false">
+          <div class="owl-carousel owl-style-10" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="true">
             <article class="team-creative wow slideInUp" data-wow-delay=".1s">
               <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-8-249x249.jpg" alt="" width="249" height="249"/></a>
                 <div class="team-creative-decor"></div>
               </div>
               <div class="team-creative-body">
-                <h4 class="team-creative-name"><a href="#">richard smith</a></h4>
+                <h4 class="team-creative-name"><a href="#">Leticia Gómez Valenzuela</a></h4>
+                <h4 class="team-creative-name">Temuco</h4>
                 <p class="team-creative-text opacity-50">Richard has a wide experience in every field of tractor repair as heâ€™s been in the industry for over 20 years.</p>
                 <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
                   <li><a class="icon mdi mdi-facebook" href="#"></a></li>
@@ -255,7 +256,8 @@
                 <div class="team-creative-decor"></div>
               </div>
               <div class="team-creative-body">
-                <h4 class="team-creative-name"><a href="#">John Williams</a></h4>
+                <h4 class="team-creative-name"><a href="#">Mario Astorga Acuña</a></h4>
+                <h4 class="team-creative-name">Santiago</h4>
                 <p class="team-creative-text opacity-50">John is the sales manager at FixIt parts store who joined our team 5 years ago as a junior technician.</p>
                 <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
                   <li><a class="icon mdi mdi-facebook" href="#"></a></li>
@@ -270,7 +272,24 @@
                 <div class="team-creative-decor"></div>
               </div>
               <div class="team-creative-body">
-                <h4 class="team-creative-name"><a href="#">Peter McMillan</a></h4>
+                <h4 class="team-creative-name"><a href="#">Luis Antivilo González</a></h4>
+                <h4 class="team-creative-name">Santiago</h4>
+                <p class="team-creative-text opacity-50">Peter is one of our primary technicians at FixIt who has vast expertise in repairing tractors and combines.</p>
+                <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
+                  <li><a class="icon mdi mdi-facebook" href="#"></a></li>
+                  <li><a class="icon mdi mdi-twitter" href="#"></a></li>
+                  <li><a class="icon mdi mdi-instagram" href="#"></a></li>
+                  <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                </ul>
+              </div>
+            </article>
+            <article class="team-creative wow slideInUp" data-wow-delay=".1s">
+              <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-10-249x249.jpg" alt="" width="249" height="249"/></a>
+                <div class="team-creative-decor"></div>
+              </div>
+              <div class="team-creative-body">
+                <h4 class="team-creative-name"><a href="#">Luis Gutiérrez Pizarro</a></h4>
+                <h4 class="team-creative-name">Copiapo</h4>
                 <p class="team-creative-text opacity-50">Peter is one of our primary technicians at FixIt who has vast expertise in repairing tractors and combines.</p>
                 <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
                   <li><a class="icon mdi mdi-facebook" href="#"></a></li>
@@ -447,7 +466,7 @@
       <!-- Section Clients-->
       <section class="section section-xl bg-default">
         <div class="container">
-          <div class="owl-carousel owl-style-2" data-items="1" data-sm-items="2" data-md-items="4" data-lg-items="4" data-margin="30" data-dots="true"><a class="clients-classic" href="#"><img src="../resources/static/images/clients-1-197x44.png" alt="" width="197" height="44"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/clients-2-139x59.png" alt="" width="139" height="59"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/clients-3-114x67.png" alt="" width="114" height="67"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/clients-4-140x50.png" alt="" width="140" height="50"/></a></div>
+          <div class="owl-carousel owl-style-2" data-items="1" data-sm-items="2" data-md-items="4" data-lg-items="4" data-margin="30" data-dots="true"><a class="clients-classic" href="#"><img src="../resources/static/images/cliente1.png" alt="" width="197" height="44"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/cliente2.png" alt="" width="139" height="59"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/cliente3.png" alt="" width="114" height="67"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/cliente4.png" alt="" width="140" height="50"/></a></div>
         </div>
       </section>
 
@@ -484,17 +503,17 @@
               <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
                 <h5 class="footer-modern-title">Links</h5>
                 <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
-                  <li><a href="aboutus">About Us</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="ourteam">Our Team</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">FAQ</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Our Blog</a></li>
-                  <li><a href="#">Tractor Parts</a></li>
-                  <li><a href="#">Repairs</a></li>
-                  <li><a href="#">Our Vision</a></li>
-                  <li><a href="#">Our Mission</a></li>
+                  <li><a href="aboutus">Nosotros</a></li>
+                  <li><a href="#">Servicios</a></li>
+                  <li><a href="ourteam">Nuestro equipo</a></li>
+<!--                   <li><a href="testimonials">Testimonials</a></li> -->
+<!--                   <li><a href="#">FAQ</a></li> -->
+                  <li><a href="contactus">Contáctanos</a></li>
+<!--                   <li><a href="blog">Our Blog</a></li> -->
+<!--                   <li><a href="tractorparts">Tractor Parts</a></li> -->
+<!--                   <li><a href="repairs">Repairs</a></li> -->
+                  <li><a href="#">Nuestra Visión</a></li>
+                  <li><a href="#">Nuestra Misión</a></li>
                 </ul>
               </div>
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
@@ -503,19 +522,19 @@
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave, 5th Floor<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422, Santiago, Chile</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a href="tel:#">(+844) 123 456 78</a></div>
+                      <div class="unit-body"><a href="tel:#">+56-956 59 3169</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
-                      <div class="unit-body"><a href="mailto:#">info@demolink.org</a></div>
+                      <div class="unit-body"><a href="mailto:#">ruth.reyes@Caterkom.cl</a></div>
                     </div>
                   </li>
                 </ul>

@@ -47,24 +47,24 @@
                   <div class="contacts-ruth">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422<br/>Santiago, Chile</a></div>
                     </div>
                   </div>
                   <div class="rd-navbar-button-2"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                    <h4><a class="link-gray-800" href="tel:#">800-2345-6789</a></h4>
-                  </div>
+                    <h4><a class="link-gray-800" href="tel:#">+56-956 59 3169</a></h4>
+                    </div>
                 </div>
                 <!-- RD Navbar Panel-->
                 <div class="rd-navbar-panel">
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo-default-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-inverse-254x76.png 2x"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-button"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                  <h4><a class="link-secondary" href="tel:#">800-2345-6789</a></h4>
-                </div>
+                  <h4><a class="link-secondary" href="tel:#">+56-956 59 3169</a></h4>
+                  </div>
               </div>
             </div>
             <div class="rd-navbar-main-outer">
@@ -126,7 +126,7 @@
                   </ul>
                 </div>
 <!--                 <div class="rd-navbar-main-element"> -->
-                  <!-- RD Navbar Search-->
+<!--                   RD Navbar Search -->
 <!--                   <div class="rd-navbar-search rd-navbar-search-2"> -->
 <!--                     <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button> -->
 <!--                     <form class="rd-search" action="searchresults" data-search-live="rd-search-results-live" method="GET"> -->
@@ -150,18 +150,18 @@
           <div class="swiper-slide text-center text-lg-right overlay-custom" data-slide-bg="../resources/static/images/slide-1.jpg">
             <div class="swiper-slide-caption section-xl section-main">
               <div class="container">
-                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="100">Agricultural</h1>
-                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="250">Machinery</h1>
-                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="400">Repair</h1>
+                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="100">Repuestos de</h1>
+                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="250">Maquinarias y</h1>
+                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="400">Motores Diesel</h1>
               </div>
             </div>
           </div>
           <div class="swiper-slide text-center text-lg-left overlay-custom" data-slide-bg="../resources/static/images/slide-2.jpg">
             <div class="swiper-slide-caption section-xl">
               <div class="container">
-                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="100">You can trust</h1>
-                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="250">Our Technicians</h1>
-                <h6 class="swiper-title-3 box-1" data-caption-animate="fadeInLeft" data-caption-delay="400">We have gathered a team of reliable agricultural machinery technicians that are always ready to help you.</h6>
+                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="100">Importamos y</h1>
+                <h1 class="swiper-title-1" data-caption-animate="fadeInLeft" data-caption-delay="250">Comercializamos</h1>
+                <h6 class="swiper-title-3 box-1" data-caption-animate="fadeInLeft" data-caption-delay="400">con marcas líderes en el mercado como son CATERPILLAR, KOMATSU, DEUTZ Y CUMMINS.</h6>
               </div>
             </div>
           </div>
@@ -188,17 +188,29 @@
         <div class="container">
           <h2 class="wow fadeScale">Servicios</h2>
           <!-- Owl Carousel-->
-          <div class="owl-carousel owl-style-8" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="false">
+          <div class="owl-carousel owl-style-8" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="true">
             <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="aboutus"><img src="../resources/static/images/about-1-340x243.jpg" alt="" width="340" height="243"/></a>
-              <h4 class="box-info-modern-title"><a href="aboutus">Diagnostics</a></h4>
+              <h4 class="box-info-modern-title"><a href="aboutus">Ajustes de motor</a></h4>
               <div class="box-info-modern-text">Our skilled technicians provide high-quality diagnostic services for tractors and other agricultural machinery.</div><a class="box-info-modern-link" href="aboutus">Read more</a>
             </article>
             <article class="box-info-modern wow slideInUp"><a class="box-info-modern-figure" href="aboutus"><img src="../resources/static/images/about-2-340x243.jpg" alt="" width="340" height="243"/></a>
-              <h4 class="box-info-modern-title"><a href="aboutus">Tractor maintenance</a></h4>
+              <h4 class="box-info-modern-title"><a href="aboutus">Mandos Finales</a></h4>
               <div class="box-info-modern-text">Our company also provides reliable tractor maintenance services that are guaranteed to prevent any functional issues.</div><a class="box-info-modern-link" href="aboutus">Read more</a>
             </article>
             <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="aboutus"><img src="../resources/static/images/about-3-340x243.jpg" alt="" width="340" height="243"/></a>
-              <h4 class="box-info-modern-title"><a href="aboutus">Machinery Repair</a></h4>
+              <h4 class="box-info-modern-title"><a href="aboutus">Bombas Hidráulicas</a></h4>
+              <div class="box-info-modern-text">FixIt offers all levels of agricultural machinery repair services with a wide variety of supported equipment.</div><a class="box-info-modern-link" href="aboutus">Read more</a>
+            </article>
+            <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="aboutus"><img src="../resources/static/images/about-1-340x243.jpg" alt="" width="340" height="243"/></a>
+              <h4 class="box-info-modern-title"><a href="aboutus">Arranques y Alternadores</a></h4>
+              <div class="box-info-modern-text">FixIt offers all levels of agricultural machinery repair services with a wide variety of supported equipment.</div><a class="box-info-modern-link" href="aboutus">Read more</a>
+            </article>
+            <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="aboutus"><img src="../resources/static/images/about-2-340x243.jpg" alt="" width="340" height="243"/></a>
+              <h4 class="box-info-modern-title"><a href="aboutus">Convertidores de Torque</a></h4>
+              <div class="box-info-modern-text">FixIt offers all levels of agricultural machinery repair services with a wide variety of supported equipment.</div><a class="box-info-modern-link" href="aboutus">Read more</a>
+            </article>
+            <article class="box-info-modern wow slideInUp" data-wow-delay=".1s"><a class="box-info-modern-figure" href="aboutus"><img src="../resources/static/images/about-3-340x243.jpg" alt="" width="340" height="243"/></a>
+              <h4 class="box-info-modern-title"><a href="aboutus">Repuestos Transmisiones</a></h4>
               <div class="box-info-modern-text">FixIt offers all levels of agricultural machinery repair services with a wide variety of supported equipment.</div><a class="box-info-modern-link" href="aboutus">Read more</a>
             </article>
           </div>
@@ -220,8 +232,8 @@
                         </div>
                       </div>
                       <div class="unit-body">
-                        <h4 class="box-icon-nancy-title"><a href="#">100% Warranty </a></h4>
-                        <p class="box-icon-nancy-text">We provide a full warranty on all tractor repair and maintenance services that FixItâ€™s team provides.</p>
+                        <h4 class="box-icon-nancy-title"><a href="#">100% Garantía </a></h4>
+                        <p class="box-icon-nancy-text">Proporcionamos total garantía en todos los repuestos y ajustes que el equipo de Caterkom proporciona.</p>
                       </div>
                     </div>
                   </article>
@@ -234,8 +246,8 @@
                         </div>
                       </div>
                       <div class="unit-body">
-                        <h4 class="box-icon-nancy-title"><a href="#">Modern tools</a></h4>
-                        <p class="box-icon-nancy-text">FixIt uses the latest equipment in the repair of tractors, combine harvesters and other machinery.</p>
+                        <h4 class="box-icon-nancy-title"><a href="#">Modernas herramientas</a></h4>
+                        <p class="box-icon-nancy-text">Caterkom usa los últimos equipamientos en sus servicios.</p>
                       </div>
                     </div>
                   </article>
@@ -253,8 +265,8 @@
                         </div>
                       </div>
                       <div class="unit-body">
-                        <h4 class="box-icon-nancy-title"><a href="#">We work fast</a></h4>
-                        <p class="box-icon-nancy-text">We guarantee quick results as our team works fast to make your agricultural equipment fully functional.</p>
+                        <h4 class="box-icon-nancy-title"><a href="#">Trabajamos rápido</a></h4>
+                        <p class="box-icon-nancy-text">Garantizamos respuestas tan rápidos como esté al alcance de nuestro equipo.</p>
                       </div>
                     </div>
                   </article>
@@ -267,8 +279,8 @@
                         </div>
                       </div>
                       <div class="unit-body">
-                        <h4 class="box-icon-nancy-title"><a href="#">Own Parts Store</a></h4>
-                        <p class="box-icon-nancy-text">Our replacement parts store offers a variety of parts for tractors, combines, and mowers of all brands.</p>
+                        <h4 class="box-icon-nancy-title"><a href="#">Repuestos de calidad</a></h4>
+                        <p class="box-icon-nancy-text">Suministramos repuestos para maquinaria a un grupo importante de empresas Chilenas y Argentinas.</p>
                       </div>
                     </div>
                   </article>
@@ -327,15 +339,16 @@
       <!-- Out Team-->
       <section class="section section-xxl context-dark bg-image-1">
         <div class="container">
-          <h2 class="wow fadeScale">Nuestro equipo</h2>
+          <h2 class="wow fadeScale">Vendedores</h2>
           <!-- Owl Carousel-->
-          <div class="owl-carousel owl-style-10" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="false">
+          <div class="owl-carousel owl-style-10" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="true">
             <article class="team-creative wow slideInUp" data-wow-delay=".1s">
               <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-8-249x249.jpg" alt="" width="249" height="249"/></a>
                 <div class="team-creative-decor"></div>
               </div>
               <div class="team-creative-body">
-                <h4 class="team-creative-name"><a href="#">richard smith</a></h4>
+                <h4 class="team-creative-name"><a href="#">Leticia Gómez Valenzuela</a></h4>
+                <h4 class="team-creative-name">Temuco</h4>
                 <p class="team-creative-text opacity-50">Richard has a wide experience in every field of tractor repair as heâ€™s been in the industry for over 20 years.</p>
                 <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
                   <li><a class="icon mdi mdi-facebook" href="#"></a></li>
@@ -350,7 +363,8 @@
                 <div class="team-creative-decor"></div>
               </div>
               <div class="team-creative-body">
-                <h4 class="team-creative-name"><a href="#">John Williams</a></h4>
+                <h4 class="team-creative-name"><a href="#">Mario Astorga Acuña</a></h4>
+                <h4 class="team-creative-name">Santiago</h4>
                 <p class="team-creative-text opacity-50">John is the sales manager at FixIt parts store who joined our team 5 years ago as a junior technician.</p>
                 <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
                   <li><a class="icon mdi mdi-facebook" href="#"></a></li>
@@ -365,7 +379,24 @@
                 <div class="team-creative-decor"></div>
               </div>
               <div class="team-creative-body">
-                <h4 class="team-creative-name"><a href="#">Peter McMillan</a></h4>
+                <h4 class="team-creative-name"><a href="#">Luis Antivilo González</a></h4>
+                <h4 class="team-creative-name">Santiago</h4>
+                <p class="team-creative-text opacity-50">Peter is one of our primary technicians at FixIt who has vast expertise in repairing tractors and combines.</p>
+                <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
+                  <li><a class="icon mdi mdi-facebook" href="#"></a></li>
+                  <li><a class="icon mdi mdi-twitter" href="#"></a></li>
+                  <li><a class="icon mdi mdi-instagram" href="#"></a></li>
+                  <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                </ul>
+              </div>
+            </article>
+            <article class="team-creative wow slideInUp" data-wow-delay=".1s">
+              <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-10-249x249.jpg" alt="" width="249" height="249"/></a>
+                <div class="team-creative-decor"></div>
+              </div>
+              <div class="team-creative-body">
+                <h4 class="team-creative-name"><a href="#">Luis Gutiérrez Pizarro</a></h4>
+                <h4 class="team-creative-name">Copiapo</h4>
                 <p class="team-creative-text opacity-50">Peter is one of our primary technicians at FixIt who has vast expertise in repairing tractors and combines.</p>
                 <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
                   <li><a class="icon mdi mdi-facebook" href="#"></a></li>
@@ -380,12 +411,12 @@
       </section>
 
       <!-- CTA-->
-      <section class="section section-xxl section-inset-1 context-dark bg-image" style="background-image: url(../resources/static/images/bg-cta-1.jpg);">
-        <div class="container box-cta">
-          <h4 class="text-secondary font-weight-medium wow fadeInDown">Free diagnostics</h4>
-          <h2 class="wow fadeScale">Quality tractor Maintenance</h2><a class="button button-lg button-shadow-2 button-secondary button-zakaria wow fadeInUp" href="#">send request</a>
-        </div>
-      </section>
+<!--       <section class="section section-xxl section-inset-1 context-dark bg-image" style="background-image: url(../resources/static/images/bg-cta-1.jpg);"> -->
+<!--         <div class="container box-cta"> -->
+<!--           <h4 class="text-secondary font-weight-medium wow fadeInDown">Free diagnostics</h4> -->
+<!--           <h2 class="wow fadeScale">Quality tractor Maintenance</h2><a class="button button-lg button-shadow-2 button-secondary button-zakaria wow fadeInUp" href="#">send request</a> -->
+<!--         </div> -->
+<!--       </section> -->
 
       <!-- Testimonials-->
       <section class="section section-xxl bg-default">
@@ -505,66 +536,66 @@
         </div>
       </section>
 
-      <!-- Latest News-->
-      <section class="section section-xxl bg-gray-1">
-        <div class="container">
-          <h2 class="wow fadeScale">Últimas noticias</h2>
-          <div class="row row-lg row-30 justify-content-center">
-            <div class="col-sm-8 col-md-6 wow fadeInLeft">
-              <!-- Post Nikki 2-->
-              <article class="post post-nikki post-nikki-2">
-                <div class="post-nikki-figure"><img src="../resources/static/images/post-1-570x461.jpg" alt="" width="570" height="461"/>
-                </div>
-                <div class="post-nikki-body">
-                  <div>
-                    <div class="post-nikki-time">
-                      <time datetime="2019-09-08">August 9, 2019</time>
-                    </div>
-                    <div class="post-nikki-title"><a href="blogpost">Top 5 Reasons to Regularly Maintain Your Tractor</a></div>
-                  </div>
-                </div>
-              </article>
-            </div>
-            <div class="col-md-6">
-              <div class="row row-30">
-                <div class="col-6 col-md-12 wow fadeInRight">
-                  <!-- Post Nikki-->
-                  <article class="post post-nikki">
-                    <div class="unit unit-spacing-lg flex-column flex-md-row align-items-center">
-                      <div class="unit-left"><a class="post-nikki-figure" href="blogpost"><img src="../resources/static/images/post-2-270x215.jpg" alt="" width="270" height="215"/></a></div>
-                      <div class="unit-body">
-                        <div class="post-nikki-time">
-                          <time datetime="2019-09-08">August 9, 2019</time>
-                        </div>
-                        <div class="post-nikki-title font-weight-medium"><a href="blogpost">Popular Replacement Parts for Tractors and Combines</a></div>
-                      </div>
-                    </div>
-                  </article>
-                </div>
-                <div class="col-6 col-md-12 wow fadeInRight">
-                  <!-- Post Nikki-->
-                  <article class="post post-nikki">
-                    <div class="unit unit-spacing-lg flex-column flex-md-row align-items-center">
-                      <div class="unit-left"><a class="post-nikki-figure" href="blogpost"><img src="../resources/static/images/post-3-270x215.jpg" alt="" width="270" height="215"/></a></div>
-                      <div class="unit-body">
-                        <div class="post-nikki-time">
-                          <time datetime="2019-09-08">August 9, 2019</time>
-                        </div>
-                        <div class="post-nikki-title font-weight-medium"><a href="blogpost">Why You Should Trust FixIt with Tractor Repair &amp; Maintenance</a></div>
-                      </div>
-                    </div>
-                  </article>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+<!--       Latest News -->
+<!--       <section class="section section-xxl bg-gray-1"> -->
+<!--         <div class="container"> -->
+<!--           <h2 class="wow fadeScale">Últimas noticias</h2> -->
+<!--           <div class="row row-lg row-30 justify-content-center"> -->
+<!--             <div class="col-sm-8 col-md-6 wow fadeInLeft"> -->
+<!--               Post Nikki 2 -->
+<!--               <article class="post post-nikki post-nikki-2"> -->
+<!--                 <div class="post-nikki-figure"><img src="../resources/static/images/post-1-570x461.jpg" alt="" width="570" height="461"/> -->
+<!--                 </div> -->
+<!--                 <div class="post-nikki-body"> -->
+<!--                   <div> -->
+<!--                     <div class="post-nikki-time"> -->
+<!--                       <time datetime="2019-09-08">August 9, 2019</time> -->
+<!--                     </div> -->
+<!--                     <div class="post-nikki-title"><a href="blogpost">Top 5 Reasons to Regularly Maintain Your Tractor</a></div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--               </article> -->
+<!--             </div> -->
+<!--             <div class="col-md-6"> -->
+<!--               <div class="row row-30"> -->
+<!--                 <div class="col-6 col-md-12 wow fadeInRight"> -->
+<!--                   Post Nikki -->
+<!--                   <article class="post post-nikki"> -->
+<!--                     <div class="unit unit-spacing-lg flex-column flex-md-row align-items-center"> -->
+<!--                       <div class="unit-left"><a class="post-nikki-figure" href="blogpost"><img src="../resources/static/images/post-2-270x215.jpg" alt="" width="270" height="215"/></a></div> -->
+<!--                       <div class="unit-body"> -->
+<!--                         <div class="post-nikki-time"> -->
+<!--                           <time datetime="2019-09-08">August 9, 2019</time> -->
+<!--                         </div> -->
+<!--                         <div class="post-nikki-title font-weight-medium"><a href="blogpost">Popular Replacement Parts for Tractors and Combines</a></div> -->
+<!--                       </div> -->
+<!--                     </div> -->
+<!--                   </article> -->
+<!--                 </div> -->
+<!--                 <div class="col-6 col-md-12 wow fadeInRight"> -->
+<!--                   Post Nikki -->
+<!--                   <article class="post post-nikki"> -->
+<!--                     <div class="unit unit-spacing-lg flex-column flex-md-row align-items-center"> -->
+<!--                       <div class="unit-left"><a class="post-nikki-figure" href="blogpost"><img src="../resources/static/images/post-3-270x215.jpg" alt="" width="270" height="215"/></a></div> -->
+<!--                       <div class="unit-body"> -->
+<!--                         <div class="post-nikki-time"> -->
+<!--                           <time datetime="2019-09-08">August 9, 2019</time> -->
+<!--                         </div> -->
+<!--                         <div class="post-nikki-title font-weight-medium"><a href="blogpost">Why You Should Trust FixIt with Tractor Repair &amp; Maintenance</a></div> -->
+<!--                       </div> -->
+<!--                     </div> -->
+<!--                   </article> -->
+<!--                 </div> -->
+<!--               </div> -->
+<!--             </div> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--       </section> -->
 
       <!-- Section Clients-->
       <section class="section section-xl bg-default">
         <div class="container">
-          <div class="owl-carousel owl-style-2" data-items="1" data-sm-items="2" data-md-items="4" data-lg-items="4" data-margin="30" data-dots="true"><a class="clients-classic" href="#"><img src="../resources/static/images/clients-1-197x44.png" alt="" width="197" height="44"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/clients-2-139x59.png" alt="" width="139" height="59"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/clients-3-114x67.png" alt="" width="114" height="67"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/clients-4-140x50.png" alt="" width="140" height="50"/></a></div>
+          <div class="owl-carousel owl-style-2" data-items="1" data-sm-items="2" data-md-items="4" data-lg-items="4" data-margin="30" data-dots="true"><a class="clients-classic" href="#"><img src="../resources/static/images/cliente1.png" alt="" width="197" height="44"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/cliente2.png" alt="" width="139" height="59"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/cliente3.png" alt="" width="114" height="67"/></a><a class="clients-classic" href="#"><img src="../resources/static/images/cliente4.png" alt="" width="140" height="50"/></a></div>
         </div>
       </section>
 
@@ -601,17 +632,17 @@
               <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
                 <h5 class="footer-modern-title">Links</h5>
                 <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
-                  <li><a href="aboutus">About Us</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="ourteam">Our Team</a></li>
-                  <li><a href="testimonials">Testimonials</a></li>
-                  <li><a href="#">FAQ</a></li>
-                  <li><a href="contactus">Contact Us</a></li>
-                  <li><a href="blog">Our Blog</a></li>
-                  <li><a href="tractorparts">Tractor Parts</a></li>
-                  <li><a href="repairs">Repairs</a></li>
-                  <li><a href="#">Our Vision</a></li>
-                  <li><a href="#">Our Mission</a></li>
+                  <li><a href="aboutus">Nosotros</a></li>
+                  <li><a href="#">Servicios</a></li>
+                  <li><a href="ourteam">Nuestro equipo</a></li>
+<!--                   <li><a href="testimonials">Testimonials</a></li> -->
+<!--                   <li><a href="#">FAQ</a></li> -->
+                  <li><a href="contactus">Contáctanos</a></li>
+<!--                   <li><a href="blog">Our Blog</a></li> -->
+<!--                   <li><a href="tractorparts">Tractor Parts</a></li> -->
+<!--                   <li><a href="repairs">Repairs</a></li> -->
+                  <li><a href="#">Nuestra Visión</a></li>
+                  <li><a href="#">Nuestra Misión</a></li>
                 </ul>
               </div>
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
@@ -620,19 +651,19 @@
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave, 5th Floor<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422, Santiago, Chile</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a href="tel:#">(+844) 123 456 78</a></div>
+                      <div class="unit-body"><a href="tel:#">+56-956 59 3169</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
-                      <div class="unit-body"><a href="mailto:#">info@demolink.org</a></div>
+                      <div class="unit-body"><a href="mailto:#">ruth.reyes@Caterkom.cl</a></div>
                     </div>
                   </li>
                 </ul>

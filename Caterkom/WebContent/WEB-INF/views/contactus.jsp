@@ -47,11 +47,11 @@
                   <div class="contacts-ruth">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422<br/>Santiago, Chile</a></div>
                     </div>
                   </div>
                   <div class="rd-navbar-button-2"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                    <h4><a class="link-gray-800" href="tel:#">800-2345-6789</a></h4>
+                    <h4><a class="link-gray-800" href="tel:#">+56-956 59 3169</a></h4>
                   </div>
                 </div>
                 <!-- RD Navbar Panel-->
@@ -59,11 +59,11 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo-default-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-inverse-254x76.png 2x"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-button"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                  <h4><a class="link-secondary" href="tel:#">800-2345-6789</a></h4>
+                  <h4><a class="link-secondary" href="tel:#">+56-956 59 3169</a></h4>
                 </div>
               </div>
             </div>
@@ -162,53 +162,53 @@
         </div>
       </section>
       <!-- Get in touch-->
-      <section class="section section-xl bg-default text-md-left">
-        <div class="container">
-          <div class="title-classic">
-            <h3 class="title-classic-title">Contactar</h3>
-            <p class="title-classic-subtitle">Estamos disponibles 24/7 por e-mail o por teléfono. Además puedes usar nuestro <br class="d-none d-lg-block">formulario para preguntar acerca de nuestros servicios.</p>
-          </div>
-          <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
-            <div class="row row-20 row-md-30">
-              <div class="col-lg-8">
-                <div class="row row-20 row-md-30">
-                  <div class="col-sm-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-first-name-2" type="text" name="name" data-constraints="@Required"/>
-                      <label class="form-label" for="contact-first-name-2">Nombre</label>
-                    </div>
-                  </div>
-                  <div class="col-sm-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-last-name-2" type="text" name="name" data-constraints="@Required"/>
-                      <label class="form-label" for="contact-last-name-2">Apellido</label>
-                    </div>
-                  </div>
-                  <div class="col-sm-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required"/>
-                      <label class="form-label" for="contact-email-2">E-mail</label>
-                    </div>
-                  </div>
-                  <div class="col-sm-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-phone-2" type="text" name="phone" data-constraints="@Numeric"/>
-                      <label class="form-label" for="contact-phone-2">Teléfono</label>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4">
-                <div class="form-wrap">
-                  <label class="form-label" for="contact-message-2">Mensaje</label>
-                  <textarea class="form-input textarea-lg" id="contact-message-2" name="phone" data-constraints="@Required"></textarea>
-                </div>
-              </div>
-            </div>
-            <button class="button button-lg button-secondary button-zakaria" type="submit">Enviar</button>
-          </form>
-        </div>
-      </section>
+<!--       <section class="section section-xl bg-default text-md-left"> -->
+<!--         <div class="container"> -->
+<!--           <div class="title-classic"> -->
+<!--             <h3 class="title-classic-title">Contactar</h3> -->
+<!--             <p class="title-classic-subtitle">Estamos disponibles 24/7 por e-mail o por teléfono. Además puedes usar nuestro <br class="d-none d-lg-block">formulario para preguntar acerca de nuestros servicios.</p> -->
+<!--           </div> -->
+<!--           <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="../resources/static/bat/rd-mailform.php"> -->
+<!--             <div class="row row-20 row-md-30"> -->
+<!--               <div class="col-lg-8"> -->
+<!--                 <div class="row row-20 row-md-30"> -->
+<!--                   <div class="col-sm-6"> -->
+<!--                     <div class="form-wrap"> -->
+<!--                       <input class="form-input" id="contact-first-name-2" type="text" name="name" data-constraints="@Required"/> -->
+<!--                       <label class="form-label" for="contact-first-name-2">Nombre</label> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                   <div class="col-sm-6"> -->
+<!--                     <div class="form-wrap"> -->
+<!--                       <input class="form-input" id="contact-last-name-2" type="text" name="name" data-constraints="@Required"/> -->
+<!--                       <label class="form-label" for="contact-last-name-2">Apellido</label> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                   <div class="col-sm-6"> -->
+<!--                     <div class="form-wrap"> -->
+<!--                       <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required"/> -->
+<!--                       <label class="form-label" for="contact-email-2">E-mail</label> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                   <div class="col-sm-6"> -->
+<!--                     <div class="form-wrap"> -->
+<!--                       <input class="form-input" id="contact-phone-2" type="text" name="phone" data-constraints="@Numeric"/> -->
+<!--                       <label class="form-label" for="contact-phone-2">Teléfono</label> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--               </div> -->
+<!--               <div class="col-lg-4"> -->
+<!--                 <div class="form-wrap"> -->
+<!--                   <label class="form-label" for="contact-message-2">Mensaje</label> -->
+<!--                   <textarea class="form-input textarea-lg" id="contact-message-2" name="phone" data-constraints="@Required"></textarea> -->
+<!--                 </div> -->
+<!--               </div> -->
+<!--             </div> -->
+<!--             <button class="button button-lg button-secondary button-zakaria" type="submit">Enviar</button> -->
+<!--           </form> -->
+<!--         </div> -->
+<!--       </section> -->
 
       <!-- Get in touch-->
       <section class="section section-xl bg-gray-4">
@@ -217,7 +217,9 @@
             <div class="col-sm-6 col-md-4">
               <h4>Oficinas</h4>
               <ul class="contacts-classic">
-                <li>Oficina <a href="tel:#">+1 (409) 987â€“5874</a>
+                <li>Oficina Santiago<a href="tel:#"> 02-6082575</a>
+                </li>
+                <li>Oficina Temuco<a href="tel:#"> 45 2527567</a>
                 </li>
 <!--                 <li>Fax <a href="tel:#">+1 (409) 987â€“5874</a> -->
 <!--                 </li> -->
@@ -225,29 +227,29 @@
             </div>
             <div class="col-sm-6 col-md-4">
               <h4>Dirección</h4>
-              <div class="contacts-classic"><a href="#">523 Sylvan Ave, 5th Floor <br>Mountain View, CA 94041 USA</a></div>
+              <div class="contacts-classic"><a href="#">Pedro León Ugalde 1422, Santiago</a></div>
+              <div class="contacts-classic"><a href="#">Vaqueria 1755, Villa Ganadero, Temuco</a></div>
             </div>
             <div class="col-sm-6 col-md-4">
               <h4>E-mails</h4>
               <ul class="contacts-classic">
-                <li><a href="mailTo:#">info@demolink.org</a></li>
-                <li><a href="mailTo:#">mail@demolink.org</a></li>
+                <li><a href="mailTo:#">robinson.alvarez@Caterkom.cl</a></li>
+                <li><a href="mailTo:#">ruth.reyes@Caterkom.cl</a></li>
               </ul>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="section">
-        RD Google Map
-        <div class="google-map-container" data-center="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-styles="[{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#e9e9e9&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:29},{&quot;weight&quot;:0.2}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:18}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:21}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dedede&quot;},{&quot;lightness&quot;:21}]},{&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:36},{&quot;color&quot;:&quot;#333333&quot;},{&quot;lightness&quot;:40}]},{&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;},{&quot;lightness&quot;:19}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:17},{&quot;weight&quot;:1.2}]}]">
-          <div class="google-map"></div>
-          <ul class="google-map-markers">
-            <li data-location="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-description="9870 St Vincent Place, Glasgow" data-icon="../resources/static/images/gmap_marker.png" data-icon-active="../resources/static/images/gmap_marker_active.png"></li>
-          </ul>
-<!-- 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.5167256936547!2d-70.63457158486376!3d-33.46189528077068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c567cb64a45b%3A0xaec054617051997e!2sPedro+Le%C3%B3n+Ugalde+1422%2C+Santiago%2C+Regi%C3%B3n+Metropolitana!5e0!3m2!1ses!2scl!4v1565147644197!5m2!1ses!2scl" width="1500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-        </div>
-      </section>
+<!--       <section class="section"> -->
+<!--         RD Google Map -->
+<!--         <div class="google-map-container" data-center="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-styles="[{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#e9e9e9&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:29},{&quot;weight&quot;:0.2}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:18}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:21}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dedede&quot;},{&quot;lightness&quot;:21}]},{&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:36},{&quot;color&quot;:&quot;#333333&quot;},{&quot;lightness&quot;:40}]},{&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;},{&quot;lightness&quot;:19}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:17},{&quot;weight&quot;:1.2}]}]"> -->
+<!--           <div class="google-map"></div> -->
+<!--           <ul class="google-map-markers"> -->
+<!--             <li data-location="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-description="9870 St Vincent Place, Glasgow" data-icon="../resources/static/images/gmap_marker.png" data-icon-active="../resources/static/images/gmap_marker_active.png"></li> -->
+<!--           </ul> -->
+<!--        </div> -->
+<!--       </section> -->
 
       <!-- Page Footer-->
       <footer class="section footer-modern bg-image-1 context-dark footer-modern-2">
@@ -282,17 +284,17 @@
               <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
                 <h5 class="footer-modern-title">Links</h5>
                 <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
-                  <li><a href="aboutus">About Us</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="ourteam">Our Team</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">FAQ</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Our Blog</a></li>
-                  <li><a href="#">Tractor Parts</a></li>
-                  <li><a href="#">Repairs</a></li>
-                  <li><a href="#">Our Vision</a></li>
-                  <li><a href="#">Our Mission</a></li>
+                  <li><a href="aboutus">Nosotros</a></li>
+                  <li><a href="#">Servicios</a></li>
+                  <li><a href="ourteam">Nuestro equipo</a></li>
+<!--                   <li><a href="testimonials">Testimonials</a></li> -->
+<!--                   <li><a href="#">FAQ</a></li> -->
+                  <li><a href="contactus">Contáctanos</a></li>
+<!--                   <li><a href="blog">Our Blog</a></li> -->
+<!--                   <li><a href="tractorparts">Tractor Parts</a></li> -->
+<!--                   <li><a href="repairs">Repairs</a></li> -->
+                  <li><a href="#">Nuestra Visión</a></li>
+                  <li><a href="#">Nuestra Misión</a></li>
                 </ul>
               </div>
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
@@ -301,19 +303,19 @@
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave, 5th Floor<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422, Santiago, Chile</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a href="tel:#">(+844) 123 456 78</a></div>
+                      <div class="unit-body"><a href="tel:#">+56-956 59 3169</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
-                      <div class="unit-body"><a href="mailto:#">info@demolink.org</a></div>
+                      <div class="unit-body"><a href="mailto:#">ruth.reyes@Caterkom.cl</a></div>
                     </div>
                   </li>
                 </ul>
@@ -330,7 +332,7 @@
         </div>
         <div class="footer-modern-panel text-center">
           <div class="container">
-            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Caterkom</span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><a href="privacypolicy">Políticas de Privacidad</a>. Design&nbsp;by&nbsp;<a href="http://www.mngr.cl/">MNGR</a></p>
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Caterkom</span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><a href="privacypolicy">Políticas de Privacidad</a>. Diseñado&nbsp;por&nbsp;<a href="http://www.mngr.cl/">MNGR</a></p>
           </div>
         </div>
       </footer>

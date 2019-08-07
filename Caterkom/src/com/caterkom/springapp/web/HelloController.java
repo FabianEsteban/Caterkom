@@ -110,10 +110,10 @@ public class HelloController {
         return new ModelAndView("privacypolicy");
 	}
 	
-//	@RequestMapping("/ourteam")
-//    public ModelAndView ourteam(Model model){
-//        return new ModelAndView("ourteam");
-//	}
+	@RequestMapping("/ourteam")
+    public ModelAndView ourteam(Model model){
+        return new ModelAndView("ourteam");
+	}
 	
 //	@RequestMapping("/searchresults")
 //    public ModelAndView searchresults(Model model){

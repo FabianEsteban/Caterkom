@@ -47,24 +47,24 @@
                   <div class="contacts-ruth">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422<br/>Santiago, Chile</a></div>
                     </div>
                   </div>
                   <div class="rd-navbar-button-2"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                    <h4><a class="link-gray-800" href="tel:#">800-2345-6789</a></h4>
-                  </div>
+                    <h4><a class="link-gray-800" href="tel:#">+56-956 59 3169</a></h4>
+                    </div>
                 </div>
                 <!-- RD Navbar Panel-->
                 <div class="rd-navbar-panel">
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo-default-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-inverse-254x76.png 2x"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-button"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                  <h4><a class="link-secondary" href="tel:#">800-2345-6789</a></h4>
-                </div>
+                  <h4><a class="link-secondary" href="tel:#">+56-956 59 3169</a></h4>
+                  </div>
               </div>
             </div>
             <div class="rd-navbar-main-outer">
@@ -72,73 +72,73 @@
                 <div class="rd-navbar-nav-wrap">
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="inicio">Home</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="inicio" style="color:black;">Inicio</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="aboutus">About Us</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="aboutus" style="color:black;">Nosotros</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="repairs">Repairs</a>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="blog">Blog</a>
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="repairs">Repairs</a> -->
+<!--                     </li> -->
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="blog">Blog</a> -->
                       <!-- RD Navbar Dropdown-->
-                      <ul class="rd-menu rd-navbar-dropdown">
-                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blogpost">Blog Post</a></li>
-                      </ul>
+<!--                       <ul class="rd-menu rd-navbar-dropdown"> -->
+<!--                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="blogpost">Blog Post</a></li> -->
+<!--                       </ul> -->
+<!--                     </li> -->
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="gallery" style="color:black;">Productos</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="gallery">Gallery</a>
-                    </li>
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="#">Elements</a>
+<!--                     <li class="rd-nav-item"><a class="rd-nav-link" href="#">Elements</a> -->
                       <!-- RD Navbar Megamenu-->
-                      <ul class="rd-menu rd-navbar-megamenu">
-                        <li class="rd-megamenu-item">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-apps"></span><span class="rd-megamenu-text">Elements</span></div>
-                          <ul class="rd-megamenu-list rd-megamenu-list-2">
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography">Typography</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="iconlists">Icon lists</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progressbars">Progress bars</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="callstoaction">Calls to action</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabsandaccordions">Tabs &amp; accordions</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons">Buttons</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables">Tables</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms">Forms</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters">Counters</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="gridsystem">Grid system</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tractorparts">Tractor Parts</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials">Testimonials</a></li>
-                          </ul>
-                        </li>
-                        <li class="rd-megamenu-item flex-grow-1 flex-shrink-0">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-layers"></span><span class="rd-megamenu-text">Additional pages</span></div>
-                          <ul class="rd-megamenu-list">
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404page">404 Page</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="comingsoon">Coming Soon</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacypolicy">Privacy Policy</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="ourteam">Our Team</a></li>
-                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="searchresults">Search Results</a></li>
-                          </ul>
-                        </li>
-                        <li class="rd-megamenu-item rd-megamenu-banner">
-                          <div class="rd-megamenu-title"><span class="rd-megamenu-icon icon linearicons-cog"></span><span class="rd-megamenu-text">Welcome to Fixit</span></div><a class="banner-classic" href="#"><img src="../resources/static/images/banner-1-300x202.jpg" alt="" width="300" height="202"/></a>
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="contactus">Contact Us</a>
+<!--                       <ul class="rd-menu rd-navbar-megamenu"> -->
+<!--                         <li class="rd-megamenu-item"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-apps"></span><span class="rd-megamenu-text">Elements</span></div> -->
+<!--                           <ul class="rd-megamenu-list rd-megamenu-list-2"> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography">Typography</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="iconlists">Icon lists</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progressbars">Progress bars</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="callstoaction">Calls to action</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabsandaccordions">Tabs &amp; accordions</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons">Buttons</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables">Tables</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms">Forms</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters">Counters</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="gridsystem">Grid system</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tractorparts">Tractor Parts</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials">Testimonials</a></li> -->
+<!--                           </ul> -->
+<!--                         </li> -->
+<!--                         <li class="rd-megamenu-item flex-grow-1 flex-shrink-0"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon mdi mdi-layers"></span><span class="rd-megamenu-text">Additional pages</span></div> -->
+<!--                           <ul class="rd-megamenu-list"> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404page">404 Page</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="comingsoon">Coming Soon</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacypolicy">Privacy Policy</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="ourteam">Our Team</a></li> -->
+<!--                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="searchresults">Search Results</a></li> -->
+<!--                           </ul> -->
+<!--                         </li> -->
+<!--                         <li class="rd-megamenu-item rd-megamenu-banner"> -->
+<!--                           <div class="rd-megamenu-title"><span class="rd-megamenu-icon icon linearicons-cog"></span><span class="rd-megamenu-text">Welcome to Fixit</span></div><a class="banner-classic" href="#"><img src="../resources/static/images/banner-1-300x202.jpg" alt="" width="300" height="202"/></a> -->
+<!--                         </li> -->
+<!--                       </ul> -->
+<!--                     </li> -->
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="contactus" style="color:black;">Contáctanos</a>
                     </li>
                   </ul>
                 </div>
-                <div class="rd-navbar-main-element">
-                  <!-- RD Navbar Search-->
-                  <div class="rd-navbar-search rd-navbar-search-2">
-                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
-                    <form class="rd-search" action="searchresults" data-search-live="rd-search-results-live" method="GET">
-                      <div class="form-wrap">
-                        <label class="form-label" for="rd-navbar-search-form-input">Search...</label>
-                        <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/>
-                        <div class="rd-search-results-live" id="rd-search-results-live"></div>
-                        <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button>
-                      </div>
-                    </form>
-                  </div>
-                </div>
+<!--                 <div class="rd-navbar-main-element"> -->
+<!--                   RD Navbar Search -->
+<!--                   <div class="rd-navbar-search rd-navbar-search-2"> -->
+<!--                     <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button> -->
+<!--                     <form class="rd-search" action="searchresults" data-search-live="rd-search-results-live" method="GET"> -->
+<!--                       <div class="form-wrap"> -->
+<!--                         <label class="form-label" for="rd-navbar-search-form-input">Buscar...</label> -->
+<!--                         <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off"/> -->
+<!--                         <div class="rd-search-results-live" id="rd-search-results-live"></div> -->
+<!--                         <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button> -->
+<!--                       </div> -->
+<!--                     </form> -->
+<!--                   </div> -->
+<!--                 </div> -->
               </div>
             </div>
           </nav>
@@ -148,7 +148,7 @@
         <div class="parallax-container" data-parallax-img="../resources/static/images/bg-about.jpg">
           <div class="breadcrumbs-custom-body parallax-content context-dark">
             <div class="container">
-              <h2 class="breadcrumbs-custom-title">Our Team</h2>
+              <h2 class="breadcrumbs-custom-title">Nuestro equipo</h2>
               <h6 class="breadcrumbs-custom-text">Condimentum vitae sapien pellentesque habitant morbi tristique senectus et <br class="d-none d-md-block">netus. Vitae suscipit tellus mauris a diam maecenas sed enim.</h6>
             </div>
           </div>
@@ -156,119 +156,82 @@
         <div class="breadcrumbs-custom-footer">
           <div class="container">
             <ul class="breadcrumbs-custom-path">
-              <li><a href="inicio">Home</a></li>
-              <li><a href="#">Elements</a></li>
-              <li class="active">Our Team</li>
+              <li><a href="inicio">Inicio</a></li>
+              <li><a href="#">Nuestro equipo</a></li>
             </ul>
           </div>
         </div>
       </section>
-      <!-- Team Creative-->
-      <section class="section section-xxl bg-default">
+      <!-- Out Team-->
+      <section class="section section-xxl context-dark bg-image-1">
         <div class="container">
-          <div class="row row-lg row-60 justify-content-center">
-            <div class="col-sm-6 col-lg-4">
-              <article class="team-creative team-creative-2">
-                <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-8-249x249.jpg" alt="" width="249" height="249"/></a>
-                  <div class="team-creative-decor"></div>
-                </div>
-                <div class="team-creative-body">
-                  <h4 class="team-creative-name"><a href="#">Richard Peterson</a></h4>
-                  <p class="team-creative-text opacity-50">Est fidelis uria, cesaris. Messor experimentums, tanquam varius equiso. Luna de castus bulla, vitare lumen!</p>
-                  <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
-                    <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                    <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                    <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                    <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
-                  </ul>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4">
-              <article class="team-creative team-creative-2">
-                <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-9-249x249.jpg" alt="" width="249" height="249"/></a>
-                  <div class="team-creative-decor"></div>
-                </div>
-                <div class="team-creative-body">
-                  <h4 class="team-creative-name"><a href="#">Susan Anderson</a></h4>
-                  <p class="team-creative-text opacity-50">Germanus, azureus aususs velox captis de bi-color, gratis messor. Hippotoxota de camerarius solitudo, victrix!</p>
-                  <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
-                    <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                    <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                    <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                    <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
-                  </ul>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4">
-              <article class="team-creative team-creative-2">
-                <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-10-249x249.jpg" alt="" width="249" height="249"/></a>
-                  <div class="team-creative-decor"></div>
-                </div>
-                <div class="team-creative-body">
-                  <h4 class="team-creative-name"><a href="#">Steve Ruffalo</a></h4>
-                  <p class="team-creative-text opacity-50">Ecce, placidus eleates! Racana, abnoba, et epos. Dexter, fatalis bullas etiam aperto de albus, germanus cedrium</p>
-                  <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
-                    <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                    <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                    <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                    <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
-                  </ul>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4">
-              <article class="team-creative team-creative-2">
-                <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-11-249x249.jpg" alt="" width="249" height="249"/></a>
-                  <div class="team-creative-decor"></div>
-                </div>
-                <div class="team-creative-body">
-                  <h4 class="team-creative-name"><a href="#">Sam peterson</a></h4>
-                  <p class="team-creative-text opacity-50">Et netus et malesuada fames ac turpis egestas maecenas pharetra. Nisi porta lorem mollis aliquam ut porttitor leo</p>
-                  <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
-                    <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                    <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                    <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                    <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
-                  </ul>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4">
-              <article class="team-creative team-creative-2">
-                <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-12-249x249.jpg" alt="" width="249" height="249"/></a>
-                  <div class="team-creative-decor"></div>
-                </div>
-                <div class="team-creative-body">
-                  <h4 class="team-creative-name"><a href="#">Richard Carter</a></h4>
-                  <p class="team-creative-text opacity-50">Quis commodo odio aenean sed adipiscing diam donec. Natoque penatibus et magnis dis parturient montes nascetur</p>
-                  <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
-                    <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                    <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                    <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                    <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
-                  </ul>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4">
-              <article class="team-creative team-creative-2">
-                <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-13-249x249.jpg" alt="" width="249" height="249"/></a>
-                  <div class="team-creative-decor"></div>
-                </div>
-                <div class="team-creative-body">
-                  <h4 class="team-creative-name"><a href="#">Billy	Powell</a></h4>
-                  <p class="team-creative-text opacity-50">ellus rutrum tellus pellentesque eu tincidunt tortor. Diam quis enim lobortis scelerisque fermentum dui faucibus</p>
-                  <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
-                    <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                    <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                    <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                    <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
-                  </ul>
-                </div>
-              </article>
-            </div>
+          <h2 class="wow fadeScale">Vendedores</h2>
+          <!-- Owl Carousel-->
+          <div class="owl-carousel owl-style-10" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-dots="true" data-mouse-drag="true">
+            <article class="team-creative wow slideInUp" data-wow-delay=".1s">
+              <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-8-249x249.jpg" alt="" width="249" height="249"/></a>
+                <div class="team-creative-decor"></div>
+              </div>
+              <div class="team-creative-body">
+                <h4 class="team-creative-name"><a href="#">Leticia Gómez Valenzuela</a></h4>
+                <h4 class="team-creative-name">Temuco</h4>
+                <p class="team-creative-text opacity-50">Richard has a wide experience in every field of tractor repair as heâ€™s been in the industry for over 20 years.</p>
+                <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
+                  <li><a class="icon mdi mdi-facebook" href="#"></a></li>
+                  <li><a class="icon mdi mdi-twitter" href="#"></a></li>
+                  <li><a class="icon mdi mdi-instagram" href="#"></a></li>
+                  <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                </ul>
+              </div>
+            </article>
+            <article class="team-creative wow slideInUp">
+              <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-9-249x249.jpg" alt="" width="249" height="249"/></a>
+                <div class="team-creative-decor"></div>
+              </div>
+              <div class="team-creative-body">
+                <h4 class="team-creative-name"><a href="#">Mario Astorga Acuña</a></h4>
+                <h4 class="team-creative-name">Santiago</h4>
+                <p class="team-creative-text opacity-50">John is the sales manager at FixIt parts store who joined our team 5 years ago as a junior technician.</p>
+                <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
+                  <li><a class="icon mdi mdi-facebook" href="#"></a></li>
+                  <li><a class="icon mdi mdi-twitter" href="#"></a></li>
+                  <li><a class="icon mdi mdi-instagram" href="#"></a></li>
+                  <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                </ul>
+              </div>
+            </article>
+            <article class="team-creative wow slideInUp" data-wow-delay=".1s">
+              <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-10-249x249.jpg" alt="" width="249" height="249"/></a>
+                <div class="team-creative-decor"></div>
+              </div>
+              <div class="team-creative-body">
+                <h4 class="team-creative-name"><a href="#">Luis Antivilo González</a></h4>
+                <h4 class="team-creative-name">Santiago</h4>
+                <p class="team-creative-text opacity-50">Peter is one of our primary technicians at FixIt who has vast expertise in repairing tractors and combines.</p>
+                <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
+                  <li><a class="icon mdi mdi-facebook" href="#"></a></li>
+                  <li><a class="icon mdi mdi-twitter" href="#"></a></li>
+                  <li><a class="icon mdi mdi-instagram" href="#"></a></li>
+                  <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                </ul>
+              </div>
+            </article>
+            <article class="team-creative wow slideInUp" data-wow-delay=".1s">
+              <div class="team-creative-header"><a class="team-creative-figure" href="#"><img src="../resources/static/images/team-10-249x249.jpg" alt="" width="249" height="249"/></a>
+                <div class="team-creative-decor"></div>
+              </div>
+              <div class="team-creative-body">
+                <h4 class="team-creative-name"><a href="#">Luis Gutiérrez Pizarro</a></h4>
+                <h4 class="team-creative-name">Copiapo</h4>
+                <p class="team-creative-text opacity-50">Peter is one of our primary technicians at FixIt who has vast expertise in repairing tractors and combines.</p>
+                <ul class="list-inline team-creative-list-social list-social-2 list-social-2-2 list-inline-sm">
+                  <li><a class="icon mdi mdi-facebook" href="#"></a></li>
+                  <li><a class="icon mdi mdi-twitter" href="#"></a></li>
+                  <li><a class="icon mdi mdi-instagram" href="#"></a></li>
+                  <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                </ul>
+              </div>
+            </article>
           </div>
         </div>
       </section>
@@ -278,66 +241,66 @@
         <div class="footer-modern-body section-xl context-dark">
           <div class="container">
             <div class="row row-40 row-md-50 justify-content-xl-between">
-              <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight">
-                <div class="inset-xl-right-70">
-                  <h5 class="footer-modern-title">Gallery</h5>
-                  <div class="row row-10 gutters-10" data-lightgallery="group">
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-1-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-2-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-3-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-4-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-5-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                    <div class="col-4 col-sm-2 col-lg-4">
-                      <!-- Thumbnail Minimal--><a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-6-178x178.jpg" alt="" width="178" height="178"/></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+<!--               <div class="col-md-10 col-lg-3 col-xl-4 wow fadeInRight"> -->
+<!--                 <div class="inset-xl-right-70"> -->
+<!--                   <h5 class="footer-modern-title">Gallery</h5> -->
+<!--                   <div class="row row-10 gutters-10" data-lightgallery="group"> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-1-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-2-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-3-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-4-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-5-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                     <div class="col-4 col-sm-2 col-lg-4"> -->
+<!--                       Thumbnail Minimal<a class="thumbnail-minimal" href="../resources/static/images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../resources/static/images/grid-gallery-6-178x178.jpg" alt="" width="178" height="178"/></a> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--               </div> -->
               <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
-                <h5 class="footer-modern-title">Quick Links</h5>
+                <h5 class="footer-modern-title">Links</h5>
                 <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
-                  <li><a href="aboutus">About Us</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="ourteam">Our Team</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">FAQ</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Our Blog</a></li>
-                  <li><a href="#">Tractor Parts</a></li>
-                  <li><a href="#">Repairs</a></li>
-                  <li><a href="#">Our Vision</a></li>
-                  <li><a href="#">Our Mission</a></li>
+                  <li><a href="aboutus">Nosotros</a></li>
+                  <li><a href="#">Servicios</a></li>
+                  <li><a href="ourteam">Nuestro equipo</a></li>
+<!--                   <li><a href="testimonials">Testimonials</a></li> -->
+<!--                   <li><a href="#">FAQ</a></li> -->
+                  <li><a href="contactus">Contáctanos</a></li>
+<!--                   <li><a href="blog">Our Blog</a></li> -->
+<!--                   <li><a href="tractorparts">Tractor Parts</a></li> -->
+<!--                   <li><a href="repairs">Repairs</a></li> -->
+                  <li><a href="#">Nuestra Visión</a></li>
+                  <li><a href="#">Nuestra Misión</a></li>
                 </ul>
               </div>
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
-                <h5 class="footer-modern-title">Get in touch</h5>
+                <h5 class="footer-modern-title">Contactar</h5>
                 <ul class="contacts-creative">
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave, 5th Floor<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422, Santiago, Chile</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a href="tel:#">(+844) 123 456 78</a></div>
+                      <div class="unit-body"><a href="tel:#">+56-956 59 3169</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
-                      <div class="unit-body"><a href="mailto:#">info@demolink.org</a></div>
+                      <div class="unit-body"><a href="mailto:#">ruth.reyes@Caterkom.cl</a></div>
                     </div>
                   </li>
                 </ul>
@@ -354,7 +317,7 @@
         </div>
         <div class="footer-modern-panel text-center">
           <div class="container">
-            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Fixit</span><span>.&nbsp; All rights reserved.</span><span>&nbsp;</span><a href="privacypolicy">Privacy Policy</a>. Design&nbsp;by&nbsp;<a href="https://zemez.io/">Zemez</a></p>
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Caterkom</span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><a href="privacypolicy">Políticas de Privacidad</a>. Diseñado&nbsp;por&nbsp;<a href="http://www.mngr.cl/">MNGR</a></p>
           </div>
         </div>
       </footer>

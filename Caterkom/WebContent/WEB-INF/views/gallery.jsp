@@ -47,11 +47,11 @@
                   <div class="contacts-ruth">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422<br/>Santiago, Chile</a></div>
                     </div>
                   </div>
                   <div class="rd-navbar-button-2"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                    <h4><a class="link-gray-800" href="tel:#">800-2345-6789</a></h4>
+                    <h4><a class="link-gray-800" href="tel:#">+56-956 59 3169</a></h4>
                   </div>
                 </div>
                 <!-- RD Navbar Panel-->
@@ -59,11 +59,11 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo-default-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-default-254x76.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo-inverse-127x53.png" alt="" width="127" height="53" srcset="../resources/static/images/logo-inverse-254x76.png 2x"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="inicio"><img class="brand-logo-dark" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/><img class="brand-logo-light" src="../resources/static/images/logo_caterkom.png" alt="" width="127" height="53" srcset="../resources/static/images/logo_caterkom.png 2x"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-button"><span class="icon mdi mdi-phone offset-right-18 icon-24"></span>
-                  <h4><a class="link-secondary" href="tel:#">800-2345-6789</a></h4>
+                  <h4><a class="link-secondary" href="tel:#">+56-956 59 3169</a></h4>
                 </div>
               </div>
             </div>
@@ -314,17 +314,17 @@
               <div class="col-sm-6 col-md-7 col-lg-5 wow fadeInRight" data-wow-delay=".1s">
                 <h5 class="footer-modern-title">Links</h5>
                 <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
-                  <li><a href="aboutus">About Us</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="ourteam">Our Team</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">FAQ</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Our Blog</a></li>
-                  <li><a href="#">Tractor Parts</a></li>
-                  <li><a href="#">Repairs</a></li>
-                  <li><a href="#">Our Vision</a></li>
-                  <li><a href="#">Our Mission</a></li>
+                  <li><a href="aboutus">Nosotros</a></li>
+                  <li><a href="#">Servicios</a></li>
+                  <li><a href="ourteam">Nuestro equipo</a></li>
+<!--                   <li><a href="testimonials">Testimonials</a></li> -->
+<!--                   <li><a href="#">FAQ</a></li> -->
+                  <li><a href="contactus">Contáctanos</a></li>
+<!--                   <li><a href="blog">Our Blog</a></li> -->
+<!--                   <li><a href="tractorparts">Tractor Parts</a></li> -->
+<!--                   <li><a href="repairs">Repairs</a></li> -->
+                  <li><a href="#">Nuestra Visión</a></li>
+                  <li><a href="#">Nuestra Misión</a></li>
                 </ul>
               </div>
               <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
@@ -333,19 +333,19 @@
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">523 Sylvan Ave, 5th Floor<br/>Mountain View, CA 94041 USA</a></div>
+                      <div class="unit-body"><a href="#">Pedro León Ugalde 1422, Santiago, Chile</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a href="tel:#">(+844) 123 456 78</a></div>
+                      <div class="unit-body"><a href="tel:#">+56-956 59 3169</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                       <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
-                      <div class="unit-body"><a href="mailto:#">info@demolink.org</a></div>
+                      <div class="unit-body"><a href="mailto:#">ruth.reyes@Caterkom.cl</a></div>
                     </div>
                   </li>
                 </ul>
@@ -362,7 +362,7 @@
         </div>
         <div class="footer-modern-panel text-center">
           <div class="container">
-            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Caterkom</span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><a href="privacypolicy">Políticas de Privacidad</a>. Design&nbsp;by&nbsp;<a href="http://www.mngr.cl/">MNGR</a></p>
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Caterkom</span><span>.&nbsp; Todos los derechos reservados.</span><span>&nbsp;</span><a href="privacypolicy">Políticas de Privacidad</a>. Diseñado&nbsp;por&nbsp;<a href="http://www.mngr.cl/">MNGR</a></p>
           </div>
         </div>
       </footer>
